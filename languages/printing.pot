@@ -1,0 +1,5500 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Printing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-06 02:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: printing"
+
+#: comments.php:42
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: th-lib/class/mega-menu.php:318
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: th-lib/class/mega-menu.php:322
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: comments.php:81
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: th-lib/function.php:49
+msgid "-- Choose One --"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:90 th-lib/th-elementor/Th-Popup.php:244
+#: th-lib/th-elementor/Th-Slider.php:90
+msgid "--Select one--"
+msgstr ""
+
+#: th-lib/function.php:52 th-lib/function.php:334
+#: th-lib/controler/Metabox-Control.php:241
+msgid "--Select--"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:296
+msgid "--Theme Option--"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:728 th-lib/th-elementor/Th-Account.php:415
+#: th-lib/th-elementor/Th-Account.php:437
+#: th-lib/th-elementor/Th-MiniCart.php:750
+#: th-lib/th-elementor/Th-MiniCart.php:775
+msgid "0"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:850
+msgid "10 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:358
+msgid "100"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:730
+msgid "10px"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1562
+#: th-lib/th-elementor/Th-Products.php:1502
+#: th-lib/th-elementor/Th-Products.php:1790
+msgid "11,12"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:731
+msgid "15px"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1624
+#: th-lib/th-elementor/Th-Shop.php:1632
+msgid "2 Column"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:367 th-lib/controler/Redux-Config.php:842
+msgid "2 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:359
+msgid "200"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:732
+msgid "20px"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1625
+#: th-lib/th-elementor/Th-Shop.php:1633
+msgid "3 Column"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:368 th-lib/controler/Redux-Config.php:843
+msgid "3 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:360
+msgid "300"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:733
+msgid "30px"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1626
+#: th-lib/th-elementor/Th-Shop.php:1634
+msgid "4 Column"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:369 th-lib/controler/Redux-Config.php:844
+msgid "4 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:361
+msgid "400"
+msgstr ""
+
+#: 404.php:36
+msgid "404"
+msgstr ""
+
+#: th-lib/function.php:878
+msgid "404 "
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:46
+msgid "404 Page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:55
+msgid "404 Style"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:734
+msgid "40px"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:370 th-lib/controler/Redux-Config.php:845
+msgid "5 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:362
+msgid "500"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:735
+msgid "50px"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:729
+msgid "5px"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:371 th-lib/controler/Redux-Config.php:846
+msgid "6 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:363
+msgid "600"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:847
+msgid "7 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:364
+msgid "700"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:848
+msgid "8 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:365
+msgid "800"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:849
+msgid "9 column"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:366
+msgid "900"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:657
+msgid "a"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:212
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:37
+msgid "Account manager"
+msgstr ""
+
+#: th-lib/function.php:935
+msgid "Account registration has been successful"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:1135
+#: th-lib/th-elementor/Th-Menu.php:401 th-lib/th-elementor/Th-Menu.php:640
+#: th-lib/th-elementor/Th-Posts.php:1240
+#: th-lib/th-elementor/Th-Products.php:1184
+#: th-lib/th-elementor/Th-Products.php:2411
+#: th-lib/th-elementor/Th-Shop.php:1150 th-lib/th-elementor/Th-Slider.php:1129
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:975
+msgid "Active"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:1146
+#: th-lib/th-elementor/Th-Posts.php:1251
+#: th-lib/th-elementor/Th-Products.php:1195
+#: th-lib/th-elementor/Th-Shop.php:1161 th-lib/th-elementor/Th-Slider.php:1140
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:986
+msgid "Active status"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1384
+msgid "Active type"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:386
+msgid "Add button"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:309
+msgid "Add custom list number to filter on the blog page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:787
+msgid "Add custom list number to filter on the shop page."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:428
+msgid "Add Custom Tab"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:588
+msgid "Add form"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:193
+msgid "Add Gallery"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:785
+msgid "Add icons"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:853
+#: th-lib/th-elementor/Th-Instagram.php:268
+msgid "Add images"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:400
+msgid "Add links"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:307 th-lib/controler/Redux-Config.php:786
+msgid "Add list number filter"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:273
+#: th-lib/controler/Customize-Control.php:274
+#: th-lib/controler/Customize-Control.php:276
+msgid "Add Media"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1619
+msgid "Add mega item"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:27
+#: th-lib/controler/Header-Control.php:27
+#: th-lib/controler/MegaItem-Control.php:27
+#: th-lib/controler/Portfolio-Control.php:27
+msgid "Add New"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:62
+msgid "Add new"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:28
+msgid "Add New Footer"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:28
+msgid "Add New Header"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:28
+msgid "Add New Mega Page"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:28
+msgid "Add New Portfolio"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:627
+msgid "Add Settings"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:589
+msgid "Add SideBar"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1594
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1181
+msgid "Add slide item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:864
+msgid "Add socials"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:666
+msgid "Add Style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1807
+msgid "Add tab"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:316
+#: th-lib/th-elementor/Th-Banner-Info.php:296
+#: th-lib/th-elementor/Th-Mailchimp.php:173
+#: th-lib/th-elementor/Th-Price-Table.php:182
+#: th-lib/th-elementor/Th-Search.php:143
+msgid "Add text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:113
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:880 th-lib/controler/Redux-Config.php:1070
+msgid "Advanced"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:329
+#: th-lib/th-elementor/Th-Mailchimp.php:186
+#: th-lib/th-elementor/Th-Search.php:156
+msgid "After icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:299
+#: th-lib/th-elementor/Th-Button.php:157 th-lib/th-elementor/Th-Icon.php:169
+#: th-lib/th-elementor/Th-Posts.php:175 th-lib/th-elementor/Th-Products.php:159
+#: th-lib/th-elementor/Th-Products.php:1715 th-lib/th-elementor/Th-Shop.php:159
+msgid "After text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:426
+msgid "Align"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:294
+#: th-lib/th-elementor/Th-Banner-Info.php:432
+#: th-lib/th-elementor/Th-Box-Info.php:242
+#: th-lib/th-elementor/Th-Box-Info.php:534
+#: th-lib/th-elementor/Th-Box-Info.php:760
+#: th-lib/th-elementor/Th-Box-Info.php:1103
+#: th-lib/th-elementor/Th-Breadcrumb.php:120
+#: th-lib/th-elementor/Th-Button.php:184 th-lib/th-elementor/Th-Icon.php:112
+#: th-lib/th-elementor/Th-Icon.php:991 th-lib/th-elementor/Th-Icon.php:1171
+#: th-lib/th-elementor/Th-Logo.php:130 th-lib/th-elementor/Th-LogoText.php:140
+#: th-lib/th-elementor/Th-Mailchimp.php:475
+#: th-lib/th-elementor/Th-MiniCart.php:230
+#: th-lib/th-elementor/Th-MiniCart.php:348 th-lib/th-elementor/Th-Posts.php:118
+#: th-lib/th-elementor/Th-Posts.php:1866
+#: th-lib/th-elementor/Th-Products.php:102
+#: th-lib/th-elementor/Th-Products.php:1908
+#: th-lib/th-elementor/Th-Products.php:2091
+#: th-lib/th-elementor/Th-Search.php:520 th-lib/th-elementor/Th-Shop.php:102
+#: th-lib/th-elementor/Th-Shop.php:1769 th-lib/th-elementor/Th-Slider.php:1632
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1191
+msgid "Alignment"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:679
+#: th-lib/th-elementor/Th-Slider.php:1492
+#: th-lib/th-elementor/Th-Slider.php:1813
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1308
+msgid "Alignment Info"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:650 th-lib/th-elementor/Th-Search.php:194
+msgid "All"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:621
+msgid "All categories"
+msgstr ""
+
+#: th-lib/class/importer.php:230 th-lib/class/importer.php:291
+msgid "All Done! Have Fun"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:32
+msgid "All Footer"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:32
+msgid "All Header"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:32
+msgid "All Mega Page"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:57
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:32
+msgid "All Portfolio"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:101
+#: th-lib/th-elementor/Th-Icon.php:1109
+msgid "Animation"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:412 th-lib/controler/Base-Control.php:448
+msgid "Append Content After"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:276
+msgid "Append content after"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:243
+msgid "Append content after post/blog/archive page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1098
+msgid "Append content after product page"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:393
+#: th-lib/controler/Redux-Config.php:1091
+msgid "Append content after product tab"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:928
+msgid "Append content after WooCommerce page"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:398 th-lib/controler/Base-Control.php:428
+msgid "Append Content Before"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:268
+msgid "Append content before"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:236
+msgid "Append content before post/blog/archive page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1077
+msgid "Append content before product page"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:386
+#: th-lib/controler/Redux-Config.php:1084
+msgid "Append content before product tab"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:921
+msgid "Append content before WooCommerce page"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply coupon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1429
+msgid "Apply for Grid  style active grid or Slider"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1551
+#: th-lib/th-elementor/Th-Products.php:1472
+#: th-lib/th-elementor/Th-Products.php:1760
+#: th-lib/th-elementor/Th-Shop.php:1422
+msgid "ASC"
+msgstr ""
+
+#: th-lib/widget/attribute-filter.php:26
+msgid "Attribute Filter"
+msgstr ""
+
+#: th-lib/widget/attribute-filter.php:281
+msgid "Attribute:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1666
+#: th-lib/th-elementor/Th-Shop.php:1674
+msgid "Attributes"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1464 th-lib/th-elementor/Th-Posts.php:1532
+#: th-lib/th-elementor/Th-Products.php:1453
+#: th-lib/th-elementor/Th-Products.php:1741
+#: th-lib/th-elementor/Th-Shop.php:1403
+msgid "Author"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:346
+#: th-lib/th-elementor/Th-Posts.php:691 th-lib/th-elementor/Th-Products.php:608
+#: th-lib/th-elementor/Th-Shop.php:608 th-lib/th-elementor/Th-Slider.php:167
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:151
+msgid "Auto width"
+msgstr ""
+
+#: woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:118 th-lib/th-elementor/Th-Account.php:545
+#: th-lib/th-elementor/Th-Account.php:615
+#: th-lib/th-elementor/Th-Banner-Info.php:770
+#: th-lib/th-elementor/Th-Box-Info.php:200
+#: th-lib/th-elementor/Th-Box-Info.php:386
+#: th-lib/th-elementor/Th-Box-Info.php:435
+#: th-lib/th-elementor/Th-Button.php:326 th-lib/th-elementor/Th-Button.php:407
+#: th-lib/th-elementor/Th-Icon.php:256 th-lib/th-elementor/Th-Icon.php:305
+#: th-lib/th-elementor/Th-Icon.php:521 th-lib/th-elementor/Th-Icon.php:826
+#: th-lib/th-elementor/Th-Icon.php:853 th-lib/th-elementor/Th-Icon.php:1484
+#: th-lib/th-elementor/Th-Instagram.php:602
+#: th-lib/th-elementor/Th-Instagram.php:881
+#: th-lib/th-elementor/Th-Instagram.php:928
+#: th-lib/th-elementor/Th-Instagram.php:1100
+#: th-lib/th-elementor/Th-Instagram.php:1145
+#: th-lib/th-elementor/Th-Mailchimp.php:310
+#: th-lib/th-elementor/Th-Mailchimp.php:359
+#: th-lib/th-elementor/Th-Mailchimp.php:523
+#: th-lib/th-elementor/Th-Mailchimp.php:639 th-lib/th-elementor/Th-Menu.php:171
+#: th-lib/th-elementor/Th-Menu.php:965 th-lib/th-elementor/Th-Menu.php:1007
+#: th-lib/th-elementor/Th-Menu.php:1137 th-lib/th-elementor/Th-Menu.php:1183
+#: th-lib/th-elementor/Th-MiniCart.php:415
+#: th-lib/th-elementor/Th-MiniCart.php:485
+#: th-lib/th-elementor/Th-MiniCart.php:640
+#: th-lib/th-elementor/Th-MiniCart.php:808
+#: th-lib/th-elementor/Th-MiniCart.php:905 th-lib/th-elementor/Th-Popup.php:204
+#: th-lib/th-elementor/Th-Posts.php:262 th-lib/th-elementor/Th-Posts.php:311
+#: th-lib/th-elementor/Th-Posts.php:840 th-lib/th-elementor/Th-Posts.php:974
+#: th-lib/th-elementor/Th-Posts.php:1032 th-lib/th-elementor/Th-Posts.php:1205
+#: th-lib/th-elementor/Th-Posts.php:1250
+#: th-lib/th-elementor/Th-Price-Table.php:249
+#: th-lib/th-elementor/Th-Products.php:246
+#: th-lib/th-elementor/Th-Products.php:295
+#: th-lib/th-elementor/Th-Products.php:772
+#: th-lib/th-elementor/Th-Products.php:918
+#: th-lib/th-elementor/Th-Products.php:976
+#: th-lib/th-elementor/Th-Products.php:1149
+#: th-lib/th-elementor/Th-Products.php:1194
+#: th-lib/th-elementor/Th-Products.php:2247
+#: th-lib/th-elementor/Th-Products.php:2330
+#: th-lib/th-elementor/Th-Products.php:2430
+#: th-lib/th-elementor/Th-Search.php:363 th-lib/th-elementor/Th-Search.php:401
+#: th-lib/th-elementor/Th-Search.php:568 th-lib/th-elementor/Th-Search.php:687
+#: th-lib/th-elementor/Th-Search.php:799 th-lib/th-elementor/Th-Search.php:860
+#: th-lib/th-elementor/Th-Shop.php:246 th-lib/th-elementor/Th-Shop.php:295
+#: th-lib/th-elementor/Th-Shop.php:772 th-lib/th-elementor/Th-Shop.php:895
+#: th-lib/th-elementor/Th-Shop.php:942 th-lib/th-elementor/Th-Shop.php:1115
+#: th-lib/th-elementor/Th-Shop.php:1160 th-lib/th-elementor/Th-Slider.php:638
+#: th-lib/th-elementor/Th-Slider.php:705 th-lib/th-elementor/Th-Slider.php:849
+#: th-lib/th-elementor/Th-Slider.php:907 th-lib/th-elementor/Th-Slider.php:1094
+#: th-lib/th-elementor/Th-Slider.php:1139
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:551
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:695
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:753
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:940
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:985
+#: th-lib/th-elementor/Th-Time-Countdown.php:188
+msgid "Background"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:82
+msgid "Background Breadcrumb"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:1009
+#: th-lib/th-elementor/Th-Instagram.php:592
+#: th-lib/th-elementor/Th-MiniCart.php:857
+#: th-lib/th-elementor/Th-MiniCart.php:867
+msgid "Background overlay"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:945 th-lib/th-elementor/Th-Search.php:955
+msgid "Background popup"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:251
+msgid "background-attachment"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:272
+msgid "background-image"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:257
+msgid "background-position"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:243
+msgid "background-repeat"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:268
+msgid "background-size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:38
+msgid "Banner info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:137
+msgid "Banner Style"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:16
+msgid "Basic Settings"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:106
+msgid "Become a part of our community!"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:330
+#: th-lib/th-elementor/Th-Mailchimp.php:187
+#: th-lib/th-elementor/Th-Search.php:157
+msgid "Before icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:300
+#: th-lib/th-elementor/Th-Button.php:158 th-lib/th-elementor/Th-Icon.php:170
+#: th-lib/th-elementor/Th-Posts.php:176 th-lib/th-elementor/Th-Products.php:160
+#: th-lib/th-elementor/Th-Products.php:1716 th-lib/th-elementor/Th-Shop.php:160
+msgid "Before text"
+msgstr ""
+
+#: th-lib/widget/group-begin.php:28
+msgid "Begin a Group"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:54
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:53
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/th-elementor/Th-Products.php:1487
+#: th-lib/th-elementor/Th-Products.php:1775
+msgid "Best Sellers"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Breadcrumb.php:213
+msgid "Blend Mode"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:178
+msgid "Block"
+msgstr ""
+
+#: th-lib/function.php:857 th-templates/top-filter.php:6
+msgid "Blog"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:224
+msgid "Blog & Post"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:284
+msgid "Blog pagination"
+msgstr ""
+
+#: th-lib/config.php:25
+msgid "Blog Sidebar"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:637
+msgid "Body"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:319
+#: th-lib/controler/Redux-Config.php:186
+msgid "Body Background"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:355
+msgid "Bold"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:356
+msgid "Bolder"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:210 th-lib/th-elementor/Th-Icon.php:532
+#: th-lib/th-elementor/Th-Menu.php:446 th-lib/th-elementor/Th-Menu.php:683
+#: th-lib/th-elementor/Th-Menu.php:975 th-lib/th-elementor/Th-Menu.php:1017
+#: th-lib/th-elementor/Th-Menu.php:1147 th-lib/th-elementor/Th-Menu.php:1193
+#: th-lib/th-elementor/Th-Popup.php:214 th-lib/th-elementor/Th-Posts.php:850
+#: th-lib/th-elementor/Th-Products.php:782
+#: th-lib/th-elementor/Th-Products.php:2281
+#: th-lib/th-elementor/Th-Products.php:2364
+#: th-lib/th-elementor/Th-Products.php:2464 th-lib/th-elementor/Th-Shop.php:782
+#: th-lib/th-elementor/Th-Slider.php:648 th-lib/th-elementor/Th-Slider.php:715
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:561
+#: th-lib/th-elementor/Th-Time-Countdown.php:198
+msgid "Border"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:472 th-lib/th-elementor/Th-Menu.php:482
+#: th-lib/th-elementor/Th-Menu.php:709 th-lib/th-elementor/Th-Menu.php:719
+msgid "Border First Child"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:454 th-lib/th-elementor/Th-Menu.php:691
+msgid "Border Last Child"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:464 th-lib/th-elementor/Th-Menu.php:701
+msgid "Border last Child"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:574
+#: th-lib/th-elementor/Th-Account.php:644
+#: th-lib/th-elementor/Th-Banner-Info.php:584
+#: th-lib/th-elementor/Th-Box-Info.php:219
+#: th-lib/th-elementor/Th-Button.php:356 th-lib/th-elementor/Th-Button.php:437
+#: th-lib/th-elementor/Th-Icon.php:542 th-lib/th-elementor/Th-Icon.php:1426
+#: th-lib/th-elementor/Th-Instagram.php:503
+#: th-lib/th-elementor/Th-Instagram.php:572
+#: th-lib/th-elementor/Th-Instagram.php:705
+#: th-lib/th-elementor/Th-Instagram.php:750
+#: th-lib/th-elementor/Th-Instagram.php:907
+#: th-lib/th-elementor/Th-Instagram.php:954
+#: th-lib/th-elementor/Th-Instagram.php:1198
+#: th-lib/th-elementor/Th-Logo.php:341 th-lib/th-elementor/Th-LogoText.php:482
+#: th-lib/th-elementor/Th-Mailchimp.php:413
+#: th-lib/th-elementor/Th-Mailchimp.php:541
+#: th-lib/th-elementor/Th-Mailchimp.php:657 th-lib/th-elementor/Th-Menu.php:756
+#: th-lib/th-elementor/Th-Menu.php:926 th-lib/th-elementor/Th-Menu.php:1102
+#: th-lib/th-elementor/Th-MiniCart.php:444
+#: th-lib/th-elementor/Th-MiniCart.php:514
+#: th-lib/th-elementor/Th-MiniCart.php:837
+#: th-lib/th-elementor/Th-MiniCart.php:963 th-lib/th-elementor/Th-Popup.php:223
+#: th-lib/th-elementor/Th-Posts.php:789 th-lib/th-elementor/Th-Posts.php:859
+#: th-lib/th-elementor/Th-Posts.php:1000 th-lib/th-elementor/Th-Posts.php:1058
+#: th-lib/th-elementor/Th-Posts.php:1303
+#: th-lib/th-elementor/Th-Price-Table.php:267
+#: th-lib/th-elementor/Th-Products.php:709
+#: th-lib/th-elementor/Th-Products.php:791
+#: th-lib/th-elementor/Th-Products.php:944
+#: th-lib/th-elementor/Th-Products.php:1002
+#: th-lib/th-elementor/Th-Products.php:1247
+#: th-lib/th-elementor/Th-Products.php:2290
+#: th-lib/th-elementor/Th-Products.php:2373
+#: th-lib/th-elementor/Th-Products.php:2473
+#: th-lib/th-elementor/Th-Search.php:457 th-lib/th-elementor/Th-Search.php:586
+#: th-lib/th-elementor/Th-Search.php:705 th-lib/th-elementor/Th-Search.php:828
+#: th-lib/th-elementor/Th-Search.php:889 th-lib/th-elementor/Th-Shop.php:709
+#: th-lib/th-elementor/Th-Shop.php:791 th-lib/th-elementor/Th-Shop.php:921
+#: th-lib/th-elementor/Th-Shop.php:968 th-lib/th-elementor/Th-Shop.php:1213
+#: th-lib/th-elementor/Th-Slider.php:429 th-lib/th-elementor/Th-Slider.php:657
+#: th-lib/th-elementor/Th-Slider.php:724 th-lib/th-elementor/Th-Slider.php:875
+#: th-lib/th-elementor/Th-Slider.php:933 th-lib/th-elementor/Th-Slider.php:1192
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:413
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:570
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:721
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:779
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1038
+#: th-lib/th-elementor/Th-Time-Countdown.php:207
+msgid "Border Radius"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:180
+msgid "Border radius"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:468
+msgid "Border Width"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:741
+#: th-lib/th-elementor/Th-Icon.php:723 th-lib/th-elementor/Th-Slider.php:1554
+#: th-lib/th-elementor/Th-Slider.php:1875
+msgid "Bottom"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1302
+msgid "Box"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1314
+msgid "Box hover"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:38
+msgid "Box Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1907
+msgid "Box item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:792
+#: th-lib/th-elementor/Th-Menu.php:796
+msgid "Box Shadow"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Breadcrumb.php:38
+msgid "Breadcrumb"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:90
+msgid "Breadcrumb text"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:97
+msgid "Breadcrumb text hover"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:68
+msgid "Breadcumb"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:262
+#: th-lib/th-elementor/Th-Account.php:456
+#: th-lib/th-elementor/Th-Box-Info.php:877
+#: th-lib/th-elementor/Th-Box-Info.php:1078
+#: th-lib/th-elementor/Th-Button.php:38 th-lib/th-elementor/Th-Button.php:100
+#: th-lib/th-elementor/Th-Button.php:211 th-lib/th-elementor/Th-Icon.php:695
+#: th-lib/th-elementor/Th-Icon.php:1275
+#: th-lib/th-elementor/Th-Mailchimp.php:153
+#: th-lib/th-elementor/Th-Mailchimp.php:201
+#: th-lib/th-elementor/Th-MiniCart.php:200
+#: th-lib/th-elementor/Th-MiniCart.php:300
+#: th-lib/th-elementor/Th-Posts.php:1493 th-lib/th-elementor/Th-Posts.php:2034
+#: th-lib/th-elementor/Th-Products.php:1414
+#: th-lib/th-elementor/Th-Products.php:2068
+#: th-lib/th-elementor/Th-Shop.php:1350 th-lib/th-elementor/Th-Shop.php:1929
+msgid "Button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:119
+msgid "Button size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1399
+msgid "Button Style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:909
+#: th-lib/th-elementor/Th-Slider.php:1389
+msgid "Button Text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Price-Table.php:207
+msgid "Button text"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:450
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:124
+msgid "Cancel reply"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:356
+msgid "Canvas & Wrap"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:887
+msgid "Cart display"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1572
+#: th-lib/th-elementor/Th-Products.php:1512
+#: th-lib/th-elementor/Th-Products.php:1641
+#: th-lib/th-elementor/Th-Products.php:1669
+#: th-lib/th-elementor/Th-Products.php:1800
+#: th-lib/th-elementor/Th-Shop.php:1433 th-lib/th-elementor/Th-Shop.php:1649
+#: th-lib/th-elementor/Th-Shop.php:1677
+msgid "cat-1,cat-2"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1466 th-lib/th-elementor/Th-Posts.php:1569
+#: th-lib/th-elementor/Th-Products.php:1509
+#: th-lib/th-elementor/Th-Products.php:1638
+#: th-lib/th-elementor/Th-Products.php:1797
+#: th-lib/th-elementor/Th-Search.php:215 th-lib/th-elementor/Th-Shop.php:1430
+#: th-lib/th-elementor/Th-Shop.php:1646
+#: th-templates/woocommerce/loop/filter-product.php:18
+msgid "Categories"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:611
+msgid "Categories dropdown"
+msgstr ""
+
+#: th-lib/widget/category-filter.php:27
+msgid "Categories Filter"
+msgstr ""
+
+#: th-lib/widget/category-filter.php:101
+msgid "Categories:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:42
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:440
+#: th-lib/th-elementor/Th-Banner-Info.php:687
+#: th-lib/th-elementor/Th-Banner-Info.php:712
+#: th-lib/th-elementor/Th-Box-Info.php:250
+#: th-lib/th-elementor/Th-Box-Info.php:542
+#: th-lib/th-elementor/Th-Box-Info.php:768
+#: th-lib/th-elementor/Th-Box-Info.php:1111
+#: th-lib/th-elementor/Th-Breadcrumb.php:128
+#: th-lib/th-elementor/Th-Button.php:192 th-lib/th-elementor/Th-Icon.php:120
+#: th-lib/th-elementor/Th-Icon.php:999 th-lib/th-elementor/Th-Icon.php:1179
+#: th-lib/th-elementor/Th-Instagram.php:358 th-lib/th-elementor/Th-Logo.php:138
+#: th-lib/th-elementor/Th-LogoText.php:148
+#: th-lib/th-elementor/Th-Mailchimp.php:484 th-lib/th-elementor/Th-Menu.php:157
+#: th-lib/th-elementor/Th-MiniCart.php:239
+#: th-lib/th-elementor/Th-MiniCart.php:357 th-lib/th-elementor/Th-Posts.php:126
+#: th-lib/th-elementor/Th-Posts.php:703 th-lib/th-elementor/Th-Posts.php:1874
+#: th-lib/th-elementor/Th-Products.php:110
+#: th-lib/th-elementor/Th-Products.php:620
+#: th-lib/th-elementor/Th-Products.php:1916
+#: th-lib/th-elementor/Th-Products.php:2099
+#: th-lib/th-elementor/Th-Search.php:529 th-lib/th-elementor/Th-Shop.php:110
+#: th-lib/th-elementor/Th-Shop.php:620 th-lib/th-elementor/Th-Shop.php:1777
+#: th-lib/th-elementor/Th-Slider.php:179 th-lib/th-elementor/Th-Slider.php:1500
+#: th-lib/th-elementor/Th-Slider.php:1525
+#: th-lib/th-elementor/Th-Slider.php:1640
+#: th-lib/th-elementor/Th-Slider.php:1821
+#: th-lib/th-elementor/Th-Slider.php:1846
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:163
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1199
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1316
+#: th-lib/th-elementor/Th-Time-Countdown.php:433
+msgid "Center"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:263
+msgid "Center Bottom"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:262
+msgid "Center Center"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:261
+msgid "Center Top"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:321
+msgid "Change body background of page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:119 th-lib/controler/Redux-Config.php:187
+msgid "Change default body background."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:333
+msgid "Change main color 2 of this page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:199
+msgid "Change main color 2 of your site."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:327
+msgid "Change main color of this page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:193
+msgid "Change main color of your site."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:897
+msgid "Checkout display"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:773
+msgid "Choose a animation."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:280
+#: th-lib/controler/Redux-Config.php:930 th-lib/controler/Redux-Config.php:1100
+msgid "Choose a mega page content append to after main content of page/post."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:245
+msgid ""
+"Choose a mega page content append to after main content of post/blog/archive "
+"page."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:272
+#: th-lib/controler/Redux-Config.php:923 th-lib/controler/Redux-Config.php:1079
+msgid "Choose a mega page content append to before main content of page/post."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:238
+msgid ""
+"Choose a mega page content append to before main content of "
+"post/blog/archive page."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:389
+#: th-lib/controler/Metabox-Control.php:396
+#: th-lib/controler/Redux-Config.php:1086
+#: th-lib/controler/Redux-Config.php:1093
+msgid "Choose a mega page content append to before product tab."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:179
+msgid "Choose a mega page to display."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:264
+#: th-lib/controler/Redux-Config.php:268 th-lib/controler/Redux-Config.php:432
+#: th-lib/controler/Redux-Config.php:538 th-lib/controler/Redux-Config.php:562
+#: th-lib/controler/Redux-Config.php:585
+msgid "Choose a sidebar to display."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:274 th-lib/controler/Redux-Config.php:285
+#: th-lib/controler/Redux-Config.php:350 th-lib/controler/Redux-Config.php:365
+#: th-lib/controler/Redux-Config.php:391 th-lib/controler/Redux-Config.php:398
+#: th-lib/controler/Redux-Config.php:503 th-lib/controler/Redux-Config.php:714
+#: th-lib/controler/Redux-Config.php:755 th-lib/controler/Redux-Config.php:824
+#: th-lib/controler/Redux-Config.php:840 th-lib/controler/Redux-Config.php:863
+#: th-lib/controler/Redux-Config.php:870 th-lib/controler/Redux-Config.php:888
+#: th-lib/controler/Redux-Config.php:898 th-lib/controler/Redux-Config.php:1063
+msgid "Choose a style to active display"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:986 th-lib/controler/Redux-Config.php:999
+msgid "Choose a style to display"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:56
+msgid "Choose a style to display."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:634
+msgid "Choose Area to style"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:300
+msgid "Choose Color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:303 th-lib/th-elementor/Th-Slider.php:1609
+msgid "Choose content"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:259
+msgid "Choose Date Time"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:357
+msgid "Choose default style for page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:210
+msgid "Choose default style for pages."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:137
+msgid "Choose default style for your site."
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:84
+msgid "Choose font awesome icon"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:647
+msgid "Choose heading Area"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:602
+msgid "Choose heading title widget"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:83
+msgid "Choose icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:160
+#: th-lib/th-elementor/Th-Box-Info.php:817 th-lib/th-elementor/Th-Icon.php:619
+#: th-lib/th-elementor/Th-Instagram.php:223 th-lib/th-elementor/Th-Logo.php:107
+#: th-lib/th-elementor/Th-Slider.php:1257
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1103
+msgid "Choose Image"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:189
+msgid "Choose image from media."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:195
+msgid "Choose images from media."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:203
+msgid "Choose Mobile Menu Logo"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:707 th-lib/controler/Redux-Config.php:980
+msgid "Choose one style of sidebar for WooCommerce page"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:401 th-lib/controler/Base-Control.php:415
+#: th-lib/controler/Base-Control.php:433 th-lib/controler/Base-Control.php:453
+msgid "Choose page"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:229
+msgid "Choose page footer"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:221
+msgid "Choose page header"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:443
+msgid "Choose priority value to re-order custom tab position."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:389
+msgid "Choose roles to show. Default is show with all roles"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:257
+msgid ""
+"Choose sidebar position for current page/post(Left,Right or No Sidebar)."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:725
+msgid "Choose space. The space between the items on the shop page."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:402
+#: th-lib/controler/Redux-Config.php:951
+msgid "Choose style display for product single"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:178
+msgid "Choose tool panel page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:289
+msgid "Circle"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:453
+msgid "Circle background"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:486
+msgid "Circle background width"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:465
+msgid "Circle width"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:282
+msgid "Click"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:667
+msgid "Click edit  to change this text."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:922
+msgid "Click submit form"
+msgstr ""
+
+#: th-templates/wishlist-notification.php:11
+msgid "Close"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:1048
+msgid "Close Toggle"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:36
+#: th-lib/controler/Woocommerce-Variable.php:95
+#: th-lib/controler/Woocommerce-Variable.php:138
+#: th-lib/controler/Woocommerce-Variable.php:151
+#: th-lib/controler/Woocommerce-Variable.php:170
+#: th-lib/th-elementor/Th-Banner-Info.php:217
+#: th-lib/th-elementor/Th-Box-Info.php:123
+#: th-lib/th-elementor/Th-Box-Info.php:150
+#: th-lib/th-elementor/Th-Box-Info.php:374
+#: th-lib/th-elementor/Th-Box-Info.php:423
+#: th-lib/th-elementor/Th-Box-Info.php:666
+#: th-lib/th-elementor/Th-Box-Info.php:710
+#: th-lib/th-elementor/Th-Button.php:303 th-lib/th-elementor/Th-Button.php:384
+#: th-lib/th-elementor/Th-Icon.php:244 th-lib/th-elementor/Th-Icon.php:293
+#: th-lib/th-elementor/Th-Icon.php:373 th-lib/th-elementor/Th-Icon.php:401
+#: th-lib/th-elementor/Th-Icon.php:442 th-lib/th-elementor/Th-Icon.php:469
+#: th-lib/th-elementor/Th-Icon.php:814 th-lib/th-elementor/Th-Icon.php:841
+#: th-lib/th-elementor/Th-Icon.php:908 th-lib/th-elementor/Th-Icon.php:1382
+#: th-lib/th-elementor/Th-Icon.php:1472 th-lib/th-elementor/Th-Popup.php:108
+#: th-lib/th-elementor/Th-Popup.php:135 th-lib/th-elementor/Th-Posts.php:250
+#: th-lib/th-elementor/Th-Posts.php:299 th-lib/th-elementor/Th-Posts.php:381
+#: th-lib/th-elementor/Th-Posts.php:412 th-lib/th-elementor/Th-Posts.php:454
+#: th-lib/th-elementor/Th-Posts.php:481 th-lib/th-elementor/Th-Posts.php:962
+#: th-lib/th-elementor/Th-Posts.php:1020
+#: th-lib/th-elementor/Th-Products.php:234
+#: th-lib/th-elementor/Th-Products.php:283
+#: th-lib/th-elementor/Th-Products.php:363
+#: th-lib/th-elementor/Th-Products.php:390
+#: th-lib/th-elementor/Th-Products.php:906
+#: th-lib/th-elementor/Th-Products.php:964
+#: th-lib/th-elementor/Th-Products.php:1999
+#: th-lib/th-elementor/Th-Products.php:2030
+#: th-lib/th-elementor/Th-Products.php:2235
+#: th-lib/th-elementor/Th-Products.php:2318
+#: th-lib/th-elementor/Th-Products.php:2418 th-lib/th-elementor/Th-Shop.php:234
+#: th-lib/th-elementor/Th-Shop.php:283 th-lib/th-elementor/Th-Shop.php:363
+#: th-lib/th-elementor/Th-Shop.php:390 th-lib/th-elementor/Th-Shop.php:1860
+#: th-lib/th-elementor/Th-Shop.php:1891 th-lib/th-elementor/Th-Slider.php:471
+#: th-lib/th-elementor/Th-Slider.php:498 th-lib/th-elementor/Th-Slider.php:558
+#: th-lib/th-elementor/Th-Slider.php:577 th-lib/th-elementor/Th-Slider.php:837
+#: th-lib/th-elementor/Th-Slider.php:895
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:455
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:482
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:683
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:741
+#: th-lib/th-elementor/Th-Time-Countdown.php:110
+#: th-lib/th-elementor/Th-Time-Countdown.php:137
+msgid "Color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:933
+msgid "Color hover"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:314 th-lib/th-elementor/Th-Button.php:395
+#: th-lib/th-elementor/Th-Instagram.php:523
+msgid "Color icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:628
+msgid "Color number"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1606
+#: th-lib/th-elementor/Th-Products.php:1532
+#: th-lib/th-elementor/Th-Products.php:1620
+#: th-lib/th-elementor/Th-Shop.php:1467 th-lib/th-elementor/Th-Shop.php:1628
+msgid "Column"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:322
+#: th-lib/th-elementor/Th-Posts.php:667 th-lib/th-elementor/Th-Products.php:584
+#: th-lib/th-elementor/Th-Shop.php:584 th-lib/th-elementor/Th-Slider.php:143
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:127
+msgid "Columns"
+msgstr ""
+
+#: th-lib/function.php:431
+msgid "Comment"
+msgstr ""
+
+#: comments.php:80
+msgid "Comment navigation"
+msgstr ""
+
+#: th-lib/function.php:430 th-lib/th-elementor/Th-Posts.php:1468
+msgid "Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/function.php:803
+#: th-templates/woocommerce/loop/grid/grid-style6.php:18
+msgid "Compare"
+msgstr ""
+
+#: th-lib/config.php:89
+msgid "Contact Form 7"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:747
+msgid "Container background"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:782
+msgid "Container width"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:433
+#: th-lib/th-elementor/Th-Breadcrumb.php:100
+#: th-lib/th-elementor/Th-Icon.php:662 th-lib/th-elementor/Th-Popup.php:270
+#: th-lib/th-elementor/Th-Price-Table.php:136
+#: th-lib/th-elementor/Th-Slider.php:1235
+#: th-lib/th-elementor/Th-Slider.php:1345
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1081
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1154
+#: th-lib/th-elementor/Th-Time-Countdown.php:238
+msgid "Content"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1740
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1300
+msgid "Content box"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:24
+msgid "Content From Mega Item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:185
+msgid "Content Style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1725
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1288
+msgid "Content text"
+msgstr ""
+
+#: th-templates/footer-default.php:13
+msgid "Copyright by ththeme. All Rights Reserved."
+msgstr ""
+
+#: th-lib/config.php:61
+msgid "Core THTheme"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:436
+#: th-lib/th-elementor/Th-Slider.php:257
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:241
+msgid "Coverflow"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:149
+msgid "Create an account"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:406
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:438
+#: th-lib/th-elementor/Th-Slider.php:259
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:243
+msgid "cube"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:83
+msgid "Custom background for breadcrumb."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:315
+msgid "Custom color"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:361
+#: th-lib/controler/Redux-Config.php:215
+msgid "Custom container width(px)"
+msgstr ""
+
+#: th-lib/controler/Elementor-Control.php:95
+msgid "Custom Control"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:92
+msgid "Custom font in breadcrumb."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:99
+msgid "Custom font when you hover in text of breadcrumb."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:377 th-lib/controler/Redux-Config.php:856
+msgid "Custom grid thumbnail size"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:135
+msgid "Custom image"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1056
+msgid "Custom item devices"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:343 th-lib/controler/Redux-Config.php:817
+msgid "Custom list thumbnail size"
+msgstr ""
+
+#: th-lib/controler/Elementor-Control.php:87
+msgid "Custom Section"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:444
+msgid "Custom single image size"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1051
+msgid ""
+"Custom size for related,upsell products. Enter size thumbnail to crop. "
+"[width]x[height]. Example is 300x300."
+msgstr ""
+
+#: th-lib/class/mega-menu.php:16
+msgid "Custom width Mega menu. Example \"500px\"."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1465 th-lib/th-elementor/Th-Posts.php:1535
+#: th-lib/th-elementor/Th-Products.php:1456
+#: th-lib/th-elementor/Th-Products.php:1744
+#: th-lib/th-elementor/Th-Shop.php:1406
+msgid "Date"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:306
+msgid "Day text"
+msgstr ""
+
+#: th-lib/function.php:525 th-lib/function.php:537 th-lib/function.php:559
+#: th-lib/function.php:581 th-lib/function.php:590
+#: th-lib/controler/Metabox-Control.php:349
+#: th-lib/controler/Metabox-Control.php:405
+#: th-lib/controler/Redux-Config.php:59 th-lib/controler/Redux-Config.php:207
+#: th-lib/controler/Redux-Config.php:287 th-lib/controler/Redux-Config.php:400
+#: th-lib/controler/Redux-Config.php:727 th-lib/controler/Redux-Config.php:757
+#: th-lib/controler/Redux-Config.php:872 th-lib/controler/Redux-Config.php:890
+#: th-lib/controler/Redux-Config.php:900
+#: th-lib/th-elementor/Th-Banner-Info.php:141
+#: th-lib/th-elementor/Th-Banner-Info.php:344
+#: th-lib/th-elementor/Th-Box-Info.php:507
+#: th-lib/th-elementor/Th-Box-Info.php:799
+#: th-lib/th-elementor/Th-Box-Info.php:867
+#: th-lib/th-elementor/Th-Box-Info.php:900
+#: th-lib/th-elementor/Th-Breadcrumb.php:110
+#: th-lib/th-elementor/Th-Button.php:111 th-lib/th-elementor/Th-Button.php:123
+#: th-lib/th-elementor/Th-Icon.php:596 th-lib/th-elementor/Th-Icon.php:761
+#: th-lib/th-elementor/Th-Instagram.php:434
+#: th-lib/th-elementor/Th-LogoText.php:274
+#: th-lib/th-elementor/Th-Mailchimp.php:112 th-lib/th-elementor/Th-Menu.php:131
+#: th-lib/th-elementor/Th-Posts.php:1630
+#: th-lib/th-elementor/Th-Price-Table.php:126
+#: th-lib/th-elementor/Th-Products.php:1484
+#: th-lib/th-elementor/Th-Products.php:1556
+#: th-lib/th-elementor/Th-Products.php:1772
+#: th-lib/th-elementor/Th-Search.php:112 th-lib/th-elementor/Th-Shop.php:1491
+#: th-lib/th-elementor/Th-Slider.php:255 th-lib/th-elementor/Th-Slider.php:758
+#: th-lib/th-elementor/Th-Slider.php:1029
+#: th-lib/th-elementor/Th-Slider.php:1246
+#: th-lib/th-elementor/Th-Slider.php:1403
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:239
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:604
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:875
+#: th-lib/th-elementor/Th-Time-Countdown.php:430
+msgid "Default"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:467
+msgid "Default 0.03"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:488
+msgid "Default 1"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:553
+msgid "Default 20%"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:771
+msgid "Default sorting"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:273 th-lib/controler/Redux-Config.php:713
+msgid "Default style"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:408
+#: th-lib/controler/Redux-Config.php:956
+msgid "Default WooCommerce"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1550
+#: th-lib/th-elementor/Th-Products.php:1471
+#: th-lib/th-elementor/Th-Products.php:1759
+#: th-lib/th-elementor/Th-Shop.php:1421
+msgid "DESC"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:416 th-lib/th-elementor/Th-Box-Info.php:578
+#: th-lib/th-elementor/Th-Box-Info.php:580
+#: th-lib/th-elementor/Th-Box-Info.php:1049
+#: th-lib/th-elementor/Th-Icon.php:1246 th-lib/th-elementor/Th-Slider.php:1710
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1276
+msgid "Description"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:727
+#: th-lib/th-elementor/Th-Box-Info.php:1059
+msgid "Description Space"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:700
+#: th-lib/th-elementor/Th-Slider.php:1316
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1144
+msgid "Description/position"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:170 th-lib/th-elementor/Th-Shop.php:1265
+msgid "Display"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:340
+msgid "Display & Style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:374
+msgid "Display button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:825
+msgid "Display on hover"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1330
+msgid "Display tab"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:284
+msgid "Display text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1370
+#: th-lib/th-elementor/Th-Products.php:1299
+msgid "Display type (Layout)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:246
+msgid "Div"
+msgstr ""
+
+#: th-lib/config.php:109
+msgid "Dokan – Best WooCommerce Multivendor Marketplace Solution"
+msgstr ""
+
+#: th-lib/class/importer.php:62 th-lib/class/importer.php:88
+#: th-lib/class/importer.php:200 th-lib/class/importer.php:253
+#: th-lib/class/importer.php:291
+msgid "DONE!"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:426
+msgid "Down one"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:280
+msgid "Dropdown"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:728
+msgid "Dropdown/side"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Price-Table.php:162
+msgid "Duration"
+msgstr ""
+
+#: comments.php:31
+msgid "Edit"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:30
+msgid "Edit Footer"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:30
+msgid "Edit Header"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:30
+msgid "Edit Mega Page"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:365 th-lib/class/mega-menu.php:367
+msgid "Edit Menu Item"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:30
+msgid "Edit Portfolio"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:430
+#: th-lib/th-elementor/Th-Slider.php:251
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:235
+msgid "Effects"
+msgstr ""
+
+#: th-lib/config.php:74
+msgid "Elementor"
+msgstr ""
+
+#: th-templates/share.php:43 th-lib/th-elementor/Th-Account.php:162
+msgid "Email"
+msgstr ""
+
+#: comments.php:106
+msgid "Email*"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:766
+msgid "Enable ajax process for your shop page."
+msgstr ""
+
+#: th-lib/class/mega-menu.php:11
+msgid "Enable Mega menu"
+msgstr ""
+
+#: th-lib/widget/group-end.php:28
+msgid "End a Group"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:305
+msgid "Enter description"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1560
+#: th-lib/th-elementor/Th-Products.php:1500
+#: th-lib/th-elementor/Th-Products.php:1788
+msgid "Enter IDs list. The values separated by \",\". Example 11,12"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:496 th-lib/controler/Redux-Config.php:1057
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:2,600:3,1000:4. Default is auto."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:181
+msgid "Enter key to search"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:391
+msgid "Enter label"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:201
+msgid "Enter media url(Youtube, Vimeo, SoundCloud ...)."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:385
+msgid ""
+"Enter number of character want to get from excerpt content. Default is "
+"0(hidden). Example is 80. Note: This value only apply for items style can be "
+"show excerpt."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:489
+msgid "Enter number of related post to display."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:743
+msgid "Enter number product to display per page. Default is 12."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:749
+msgid "Enter number to set time for product is new. Unit day. Default is 30."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:344 th-lib/controler/Redux-Config.php:378
+#: th-lib/controler/Redux-Config.php:446 th-lib/controler/Redux-Config.php:818
+#: th-lib/controler/Redux-Config.php:857
+msgid "Enter size thumbnail to crop. [width]x[height]. Example is 300x300."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1667
+#: th-lib/th-elementor/Th-Shop.php:1675
+msgid ""
+"Enter slug attributes. The values separated by \",\". Example attribute-1,"
+"attribute-2"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1639
+#: th-lib/th-elementor/Th-Shop.php:1647
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1570
+#: th-lib/th-elementor/Th-Products.php:1510
+#: th-lib/th-elementor/Th-Products.php:1798
+#: th-lib/th-elementor/Th-Search.php:217 th-lib/th-elementor/Th-Shop.php:1431
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2. "
+"Default will show all categories"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:366
+#: th-lib/th-elementor/Th-Banner-Info.php:210
+#: th-lib/th-elementor/Th-Banner-Info.php:319
+#: th-lib/th-elementor/Th-Price-Table.php:174
+#: th-lib/th-elementor/Th-Slider.php:1392
+msgid "Enter text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:135
+msgid "Enter text of button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:301
+#: th-lib/th-elementor/Th-Icon.php:787
+msgid "Enter title"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:482
+msgid "Enter title of related section."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:668
+msgid "Enter your description"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:653 th-lib/th-elementor/Th-LogoText.php:112
+msgid "Enter your title"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1481 th-lib/th-elementor/Th-Posts.php:1896
+msgid "Excerpt"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1702
+msgid "Excerpt list"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1015
+msgid "Extra display"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:126
+msgid "Extra Large"
+msgstr ""
+
+#: th-templates/share.php:13
+msgid "Facebook"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:435
+#: th-lib/th-elementor/Th-Slider.php:256
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:240
+msgid "Fade"
+msgstr ""
+
+#: th-lib/function.php:563 th-lib/th-elementor/Th-Banner-Info.php:109
+#: th-lib/th-elementor/Th-Icon.php:1117
+msgid "Fade in-out"
+msgstr ""
+
+#: th-lib/function.php:561 th-lib/th-elementor/Th-Banner-Info.php:107
+#: th-lib/th-elementor/Th-Icon.php:1115
+msgid "Fade out-in"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1486
+#: th-lib/th-elementor/Th-Products.php:1774
+msgid "Featured Products"
+msgstr ""
+
+#: th-lib/class/importer.php:115
+msgid "File Not Found. Stop working!"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:506
+msgid "Fill Arrow"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1583
+#: th-templates/woocommerce/loop/filter-product.php:9
+msgid "Filter"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Shop.php:1591
+msgid "Filter button"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:551
+msgid "Filter by price"
+msgstr ""
+
+#: th-templates/woocommerce/loop/filter-product.php:46
+msgid "Filter By Price:"
+msgstr ""
+
+#: th-lib/widget/attribute-filter.php:27 th-lib/widget/category-filter.php:28
+msgid "Filter product shop page"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:252
+msgid "Fixed"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:437
+#: th-lib/th-elementor/Th-Slider.php:258
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:242
+msgid "Flip"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:304
+msgid "Font Family"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:321
+msgid "Font Size"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:332
+msgid "Font Style"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:342
+msgid "Font Variant"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:351
+msgid "Font Weight"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:306
+msgid "font-family"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:323
+msgid "font-size"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:334
+msgid "font-style"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:344
+msgid "font-variant"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:353
+msgid "font-weight"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:641
+msgid "Footer"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:23
+#: th-lib/controler/Footer-Control.php:24
+#: th-lib/controler/Footer-Control.php:25
+#: th-lib/controler/Footer-Control.php:26 th-lib/controler/Redux-Config.php:37
+msgid "Footer Page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:881
+msgid "Footer side"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:914
+msgid "Footer WooCommerce Page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:310
+#: th-lib/th-elementor/Th-Posts.php:655 th-lib/th-elementor/Th-Products.php:572
+#: th-lib/th-elementor/Th-Shop.php:572 th-lib/th-elementor/Th-Slider.php:131
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:115
+msgid "For example: 20"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:335
+#: th-lib/th-elementor/Th-Posts.php:680 th-lib/th-elementor/Th-Products.php:597
+#: th-lib/th-elementor/Th-Shop.php:597 th-lib/th-elementor/Th-Slider.php:156
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:140
+msgid "For example: 3000 or 5000"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:122
+#: th-lib/th-elementor/Th-Mailchimp.php:427
+#: th-lib/th-elementor/Th-Search.php:171 th-lib/th-elementor/Th-Search.php:472
+msgid "Form"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:130
+msgid "Form ID"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:179
+msgid "Format Settings"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:276
+msgid "Framed"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:60
+msgid "FullWidth"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:724
+msgid "Gap Products"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:21 th-lib/controler/Redux-Config.php:229
+#: th-lib/controler/Redux-Config.php:682 th-lib/controler/Redux-Config.php:943
+msgid "General"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:217
+#: th-lib/controler/Metabox-Control.php:382
+msgid "General Settings"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:211
+msgid "Get New Password"
+msgstr ""
+
+#: 404.php:45
+msgid "Go to Home"
+msgstr ""
+
+#: th-templates/share.php:23
+msgid "Google"
+msgstr ""
+
+#: th-lib/function.php:101
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: th-lib/function.php:569 th-lib/th-elementor/Th-Banner-Info.php:115
+#: th-lib/th-elementor/Th-Icon.php:1123
+msgid "Gray image"
+msgstr ""
+
+#: th-lib/function.php:570 th-lib/th-elementor/Th-Banner-Info.php:116
+#: th-lib/th-elementor/Th-Icon.php:1124
+msgid "Gray image line"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:277 th-lib/controler/Redux-Config.php:716
+#: th-lib/th-elementor/Th-Instagram.php:111
+#: th-lib/th-elementor/Th-Posts.php:1374 th-lib/th-elementor/Th-Posts.php:1388
+#: th-lib/th-elementor/Th-Posts.php:1595
+#: th-lib/th-elementor/Th-Products.php:1303
+#: th-lib/th-elementor/Th-Products.php:1521
+#: th-lib/th-elementor/Th-Shop.php:1269 th-lib/th-elementor/Th-Shop.php:1442
+msgid "Grid"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1376
+msgid "Grid - layout 1"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:363 th-lib/controler/Redux-Config.php:838
+msgid "Grid column"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:397 th-lib/controler/Redux-Config.php:869
+msgid "Grid display"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:390 th-lib/controler/Redux-Config.php:862
+msgid "Grid item style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1579
+#: th-lib/th-elementor/Th-Products.php:1565
+msgid "Grid pagination"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:356 th-lib/controler/Redux-Config.php:831
+msgid "Grid Settings"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:383
+msgid "Grid Sub string excerpt"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1626
+#: th-lib/th-elementor/Th-Products.php:1552
+#: th-lib/th-elementor/Th-Shop.php:1487
+msgid "Grid type"
+msgstr ""
+
+#: th-lib/widget/group-begin.php:27
+msgid "Group begin"
+msgstr ""
+
+#: th-lib/widget/group-end.php:27
+msgid "Group end"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:605 th-lib/controler/Redux-Config.php:651
+msgid "H1"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:606 th-lib/controler/Redux-Config.php:652
+#: th-lib/th-elementor/Th-Banner-Info.php:238
+msgid "H2"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:607 th-lib/controler/Redux-Config.php:653
+#: th-lib/th-elementor/Th-Banner-Info.php:239
+msgid "H3"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:608 th-lib/controler/Redux-Config.php:654
+#: th-lib/th-elementor/Th-Banner-Info.php:240
+msgid "H4"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:609 th-lib/controler/Redux-Config.php:655
+#: th-lib/th-elementor/Th-Banner-Info.php:241
+msgid "H5"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:610 th-lib/controler/Redux-Config.php:656
+#: th-lib/th-elementor/Th-Banner-Info.php:242
+msgid "H6"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:234
+msgid "Head Padding"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:638
+#: th-lib/th-elementor/Th-Box-Info.php:517
+#: th-lib/th-elementor/Th-Box-Info.php:526
+#: th-lib/th-elementor/Th-Box-Info.php:996
+msgid "Header"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:23
+#: th-lib/controler/Header-Control.php:24
+#: th-lib/controler/Header-Control.php:25
+#: th-lib/controler/Header-Control.php:26 th-lib/controler/Redux-Config.php:28
+msgid "Header Page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:907
+msgid "Header WooCommerce Page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:486
+#: th-lib/th-elementor/Th-Banner-Info.php:654
+#: th-lib/th-elementor/Th-Button.php:219 th-lib/th-elementor/Th-Icon.php:973
+#: th-lib/th-elementor/Th-Instagram.php:829
+#: th-lib/th-elementor/Th-Instagram.php:1064
+#: th-lib/th-elementor/Th-Mailchimp.php:231
+#: th-lib/th-elementor/Th-Mailchimp.php:457
+#: th-lib/th-elementor/Th-Mailchimp.php:596
+#: th-lib/th-elementor/Th-Menu.php:1252 th-lib/th-elementor/Th-MiniCart.php:330
+#: th-lib/th-elementor/Th-MiniCart.php:594 th-lib/th-elementor/Th-Popup.php:345
+#: th-lib/th-elementor/Th-Posts.php:911 th-lib/th-elementor/Th-Posts.php:1169
+#: th-lib/th-elementor/Th-Products.php:855
+#: th-lib/th-elementor/Th-Products.php:1113
+#: th-lib/th-elementor/Th-Search.php:293 th-lib/th-elementor/Th-Search.php:502
+#: th-lib/th-elementor/Th-Search.php:749 th-lib/th-elementor/Th-Shop.php:843
+#: th-lib/th-elementor/Th-Shop.php:1079 th-lib/th-elementor/Th-Slider.php:786
+#: th-lib/th-elementor/Th-Slider.php:1058
+#: th-lib/th-elementor/Th-Slider.php:1467
+#: th-lib/th-elementor/Th-Slider.php:1788
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:632
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:904
+#: th-lib/th-elementor/Th-Time-Countdown.php:399
+#: th-lib/th-elementor/Th-Time-Countdown.php:574
+msgid "Height"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:461
+msgid "Hidden"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:272
+#: th-lib/th-elementor/Th-Banner-Info.php:355
+#: th-lib/th-elementor/Th-Slider.php:1297
+#: th-lib/th-elementor/Th-Slider.php:1326
+#: th-lib/th-elementor/Th-Slider.php:1356
+#: th-lib/th-elementor/Th-Slider.php:1412
+msgid "Hidden on mobile"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:409
+#: th-lib/th-elementor/Th-Instagram.php:421
+#: th-lib/th-elementor/Th-MiniCart.php:269 th-lib/th-elementor/Th-Posts.php:730
+#: th-lib/th-elementor/Th-Posts.php:742 th-lib/th-elementor/Th-Products.php:647
+#: th-lib/th-elementor/Th-Products.php:659
+#: th-lib/th-elementor/Th-Search.php:204 th-lib/th-elementor/Th-Shop.php:647
+#: th-lib/th-elementor/Th-Shop.php:659 th-lib/th-elementor/Th-Slider.php:230
+#: th-lib/th-elementor/Th-Slider.php:242
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:214
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:226
+msgid "Hide"
+msgstr ""
+
+#: th-lib/function.php:857 th-lib/function.php:858
+msgid "Home"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:704
+#: th-lib/th-elementor/Th-Slider.php:1517
+#: th-lib/th-elementor/Th-Slider.php:1838
+msgid "Horizontal Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:318
+msgid "Hour text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:587
+#: th-lib/th-elementor/Th-Banner-Info.php:513
+#: th-lib/th-elementor/Th-Box-Info.php:143
+#: th-lib/th-elementor/Th-Box-Info.php:416
+#: th-lib/th-elementor/Th-Button.php:377 th-lib/th-elementor/Th-Icon.php:286
+#: th-lib/th-elementor/Th-Icon.php:394 th-lib/th-elementor/Th-Icon.php:462
+#: th-lib/th-elementor/Th-Icon.php:835 th-lib/th-elementor/Th-Icon.php:1056
+#: th-lib/th-elementor/Th-Icon.php:1465
+#: th-lib/th-elementor/Th-Instagram.php:516
+#: th-lib/th-elementor/Th-Instagram.php:726
+#: th-lib/th-elementor/Th-Instagram.php:920 th-lib/th-elementor/Th-Logo.php:270
+#: th-lib/th-elementor/Th-LogoText.php:359
+#: th-lib/th-elementor/Th-Mailchimp.php:320 th-lib/th-elementor/Th-Menu.php:362
+#: th-lib/th-elementor/Th-Menu.php:602 th-lib/th-elementor/Th-Menu.php:999
+#: th-lib/th-elementor/Th-Menu.php:1175 th-lib/th-elementor/Th-MiniCart.php:457
+#: th-lib/th-elementor/Th-Popup.php:128 th-lib/th-elementor/Th-Posts.php:292
+#: th-lib/th-elementor/Th-Posts.php:405 th-lib/th-elementor/Th-Posts.php:474
+#: th-lib/th-elementor/Th-Posts.php:551 th-lib/th-elementor/Th-Posts.php:1013
+#: th-lib/th-elementor/Th-Products.php:276
+#: th-lib/th-elementor/Th-Products.php:383
+#: th-lib/th-elementor/Th-Products.php:460
+#: th-lib/th-elementor/Th-Products.php:957
+#: th-lib/th-elementor/Th-Products.php:2311
+#: th-lib/th-elementor/Th-Search.php:373 th-lib/th-elementor/Th-Search.php:841
+#: th-lib/th-elementor/Th-Shop.php:276 th-lib/th-elementor/Th-Shop.php:383
+#: th-lib/th-elementor/Th-Shop.php:460 th-lib/th-elementor/Th-Shop.php:934
+#: th-lib/th-elementor/Th-Slider.php:317 th-lib/th-elementor/Th-Slider.php:491
+#: th-lib/th-elementor/Th-Slider.php:570 th-lib/th-elementor/Th-Slider.php:888
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:301
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:475
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:734
+#: th-lib/th-elementor/Th-Time-Countdown.php:130
+msgid "Hover"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:563
+#: th-lib/th-elementor/Th-Button.php:474 th-lib/th-elementor/Th-Icon.php:1341
+#: th-lib/th-elementor/Th-Icon.php:1528
+#: th-lib/th-elementor/Th-Instagram.php:143 th-lib/th-elementor/Th-Logo.php:320
+#: th-lib/th-elementor/Th-LogoText.php:397 th-lib/th-elementor/Th-Posts.php:614
+#: th-lib/th-elementor/Th-Products.php:523 th-lib/th-elementor/Th-Shop.php:523
+#: th-lib/th-elementor/Th-Slider.php:380
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:364
+msgid "Hover Animation"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:120
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the theme
+msgid "https://printing.ththeme.net"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.templatemonster.com/authors/ththeme/"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:375
+#: th-lib/th-elementor/Th-Banner-Info.php:184
+#: th-lib/th-elementor/Th-Banner-Info.php:328
+#: th-lib/th-elementor/Th-Box-Info.php:746
+#: th-lib/th-elementor/Th-Box-Info.php:840
+#: th-lib/th-elementor/Th-Button.php:171 th-lib/th-elementor/Th-Icon.php:796
+#: th-lib/th-elementor/Th-Instagram.php:255
+#: th-lib/th-elementor/Th-Price-Table.php:194
+#: th-lib/th-elementor/Th-Slider.php:1377
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1167
+msgid "https://your-link.com"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:984 th-lib/th-elementor/Th-Menu.php:1026
+#: th-lib/th-elementor/Th-Menu.php:1156 th-lib/th-elementor/Th-Menu.php:1202
+msgid "Humber Icon Color"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:660
+msgid "i"
+msgstr ""
+
+#: th-templates/share.php:100
+msgid "I wanted you to see this site&amp;body=Check out this site"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:252
+#: th-lib/th-elementor/Th-Account.php:270
+#: th-lib/th-elementor/Th-Account.php:353
+#: th-lib/th-elementor/Th-Box-Info.php:275
+#: th-lib/th-elementor/Th-Box-Info.php:599
+#: th-lib/th-elementor/Th-Button.php:145 th-lib/th-elementor/Th-Icon.php:145
+#: th-lib/th-elementor/Th-Icon.php:577 th-lib/th-elementor/Th-Icon.php:604
+#: th-lib/th-elementor/Th-Icon.php:774 th-lib/th-elementor/Th-LogoText.php:251
+#: th-lib/th-elementor/Th-LogoText.php:258
+#: th-lib/th-elementor/Th-LogoText.php:305
+#: th-lib/th-elementor/Th-Mailchimp.php:161
+#: th-lib/th-elementor/Th-MiniCart.php:177
+#: th-lib/th-elementor/Th-MiniCart.php:189
+#: th-lib/th-elementor/Th-MiniCart.php:208 th-lib/th-elementor/Th-Posts.php:151
+#: th-lib/th-elementor/Th-Products.php:135
+#: th-lib/th-elementor/Th-Products.php:1703
+#: th-lib/th-elementor/Th-Search.php:113 th-lib/th-elementor/Th-Search.php:131
+#: th-lib/th-elementor/Th-Search.php:248 th-lib/th-elementor/Th-Shop.php:135
+msgid "Icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:240 th-lib/th-elementor/Th-Search.php:719
+msgid "Icon - popup"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:38 th-lib/th-elementor/Th-Icon.php:566
+msgid "Icon Box"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:524
+#: th-lib/th-elementor/Th-Account.php:594
+#: th-lib/th-elementor/Th-Box-Info.php:611
+#: th-lib/th-elementor/Th-Mailchimp.php:278
+#: th-lib/th-elementor/Th-Mailchimp.php:327
+#: th-lib/th-elementor/Th-MiniCart.php:394
+#: th-lib/th-elementor/Th-MiniCart.php:464
+#: th-lib/th-elementor/Th-Search.php:342 th-lib/th-elementor/Th-Search.php:380
+#: th-lib/th-elementor/Th-Search.php:787 th-lib/th-elementor/Th-Search.php:848
+msgid "Icon Color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1986
+msgid "Icon color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:282
+msgid "Icon logged"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:806
+msgid "Icon menu Style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:814
+msgid "Icon menu Toggle"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:978
+#: th-lib/th-elementor/Th-Posts.php:1082
+#: th-lib/th-elementor/Th-Products.php:1026 th-lib/th-elementor/Th-Shop.php:992
+#: th-lib/th-elementor/Th-Slider.php:957
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:803
+msgid "Icon next"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:295
+#: th-lib/th-elementor/Th-Button.php:153 th-lib/th-elementor/Th-Icon.php:165
+#: th-lib/th-elementor/Th-Icon.php:707 th-lib/th-elementor/Th-Posts.php:171
+#: th-lib/th-elementor/Th-Products.php:155
+#: th-lib/th-elementor/Th-Products.php:1711 th-lib/th-elementor/Th-Shop.php:155
+msgid "Icon position"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:990
+#: th-lib/th-elementor/Th-Posts.php:1094
+#: th-lib/th-elementor/Th-Products.php:1038
+#: th-lib/th-elementor/Th-Shop.php:1004 th-lib/th-elementor/Th-Slider.php:969
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:815
+msgid "Icon prev"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:622 th-lib/th-elementor/Th-Icon.php:887
+msgid "Icon Size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1968
+msgid "Icon size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:639
+msgid "Icon Space"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:330
+#: th-lib/th-elementor/Th-Button.php:259 th-lib/th-elementor/Th-Icon.php:200
+#: th-lib/th-elementor/Th-Posts.php:206 th-lib/th-elementor/Th-Products.php:190
+#: th-lib/th-elementor/Th-Products.php:2191 th-lib/th-elementor/Th-Shop.php:190
+msgid "Icon Space left"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:348
+#: th-lib/th-elementor/Th-Button.php:277 th-lib/th-elementor/Th-Icon.php:218
+#: th-lib/th-elementor/Th-Posts.php:224 th-lib/th-elementor/Th-Products.php:208
+#: th-lib/th-elementor/Th-Products.php:2209 th-lib/th-elementor/Th-Shop.php:208
+msgid "Icon Space right"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:572
+msgid "Icon Type"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:879
+msgid "Icon/Image"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1531
+#: th-lib/th-elementor/Th-Products.php:1452
+#: th-lib/th-elementor/Th-Products.php:1740
+#: th-lib/th-elementor/Th-Shop.php:1402
+msgid "ID"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:290
+msgid "ID open"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:37
+#: th-lib/controler/Woocommerce-Variable.php:96
+#: th-lib/controler/Woocommerce-Variable.php:139
+#: th-lib/controler/Woocommerce-Variable.php:152
+#: th-lib/controler/Woocommerce-Variable.php:171
+#: th-lib/th-elementor/Th-Banner-Info.php:152
+#: th-lib/th-elementor/Th-Banner-Info.php:422
+#: th-lib/th-elementor/Th-Icon.php:581 th-lib/th-elementor/Th-Instagram.php:122
+#: th-lib/th-elementor/Th-Instagram.php:672 th-lib/th-elementor/Th-Logo.php:100
+#: th-lib/th-elementor/Th-Logo.php:157 th-lib/th-elementor/Th-Slider.php:1678
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1250
+msgid "Image"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:20
+msgid "Image Preview"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:192
+msgid "Image size"
+msgstr ""
+
+#: th-templates/posts/single-content/content-gallery.php:17
+msgid "Image slider"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:985
+msgid "Image zoom"
+msgstr ""
+
+#: th-lib/class/importer.php:31
+msgid "Importer Class Was Not Installed"
+msgstr ""
+
+#: th-lib/class/importer.php:200
+msgid "Importing menu settings ..."
+msgstr ""
+
+#: th-lib/class/importer.php:62
+msgid "Importing the demo theme options..."
+msgstr ""
+
+#: th-lib/class/importer.php:88
+msgid "Importing the demo widgets..."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:38 th-lib/controler/Redux-Config.php:915
+msgid ""
+"Include Footer content. Go to Footer in admin menu to edit/create footer "
+"content.  Note this value default for all pages of your site, If have any "
+"page/single page display other content pehaps you are set specific footer "
+"for it"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:233
+msgid ""
+"Include Footer content. Go to Footer page in admin menu to edit/create "
+"footer content. Default is value of Theme Option."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:29 th-lib/controler/Redux-Config.php:908
+msgid ""
+"Include Header content. Go to Header in admin menu to edit/create header "
+"content. Note this value default for all pages of your site, If have any "
+"page/single page display other content pehaps you are set specific header "
+"for it"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:225
+msgid ""
+"Include Header content. Go to Header page in admin menu to edit/create "
+"header content. Default is value of Theme Option."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:47
+msgid "Include page to 404 page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:515
+msgid "Indicator color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:529
+msgid "Indicator Margin"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:561
+#: th-lib/th-elementor/Th-Posts.php:1858
+#: th-lib/th-elementor/Th-Products.php:1900
+#: th-lib/th-elementor/Th-Shop.php:1761
+msgid "Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:1095
+msgid "Info Box"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1141
+msgid "Info box"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:248
+#: th-lib/controler/Customize-Control.php:254
+#: th-lib/controler/Customize-Control.php:338
+#: th-lib/controler/Customize-Control.php:347
+#: th-lib/controler/Customize-Control.php:367
+#: th-lib/th-elementor/Th-Account.php:419
+#: th-lib/th-elementor/Th-Account.php:441
+#: th-lib/th-elementor/Th-Banner-Info.php:462
+#: th-lib/th-elementor/Th-MiniCart.php:754
+#: th-lib/th-elementor/Th-MiniCart.php:779
+msgid "Inherit"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:174
+msgid "Inline Block"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:621
+#: th-lib/th-elementor/Th-Slider.php:1434
+#: th-lib/th-elementor/Th-Slider.php:1755
+msgid "Inner"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:566
+msgid "Input"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:37
+msgid "Instagram"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:42
+msgid "Install Plugins"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:41
+msgid "Install Required Plugins"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:43
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:336
+msgid "Italic"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:271
+#: th-lib/th-elementor/Th-Instagram.php:448
+#: th-lib/th-elementor/Th-Posts.php:1790
+#: th-lib/th-elementor/Th-Price-Table.php:218
+#: th-lib/th-elementor/Th-Products.php:1823
+#: th-lib/th-elementor/Th-Shop.php:1692
+#: th-lib/th-elementor/Th-Time-Countdown.php:509
+msgid "Item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:1009
+msgid "item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:338 th-lib/th-elementor/Th-Menu.php:370
+#: th-lib/th-elementor/Th-Menu.php:409 th-lib/th-elementor/Th-Menu.php:591
+msgid "Item background"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:660
+msgid "Item background (Active)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:625
+msgid "Item background (hover)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1238
+msgid "Item box"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:2134
+msgid "Item height"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1652
+msgid "Item list style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1400
+#: th-lib/th-elementor/Th-Products.php:1312
+#: th-lib/th-elementor/Th-Shop.php:1450 th-lib/th-elementor/Th-Shop.php:1510
+msgid "Item style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:94 th-lib/th-elementor/Th-Posts.php:1402
+msgid "Item style apply for Grid or Slider"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:211 th-lib/th-elementor/Th-Menu.php:347
+#: th-lib/th-elementor/Th-Menu.php:379 th-lib/th-elementor/Th-Menu.php:577
+msgid "Item text color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:418 th-lib/th-elementor/Th-Menu.php:647
+msgid "Item text color (Active)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:609
+msgid "Item text color (hover)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:2116
+msgid "Item width"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:294
+#: th-lib/th-elementor/Th-Posts.php:639 th-lib/th-elementor/Th-Products.php:556
+#: th-lib/th-elementor/Th-Shop.php:556 th-lib/th-elementor/Th-Slider.php:115
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:99
+msgid "Items"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:436
+msgid "Items Border"
+msgstr ""
+
+#: th-templates/top-filter.php:65
+msgid "Items:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Breadcrumb.php:136
+#: th-lib/th-elementor/Th-LogoText.php:156 th-lib/th-elementor/Th-Menu.php:159
+#: th-lib/th-elementor/Th-Posts.php:1882
+#: th-lib/th-elementor/Th-Products.php:1924
+#: th-lib/th-elementor/Th-Shop.php:1785 th-lib/th-elementor/Th-Slider.php:1648
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1207
+msgid "Justified"
+msgstr ""
+
+#: th-lib/class/icons.php:25
+msgid "La - Icons"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:38
+#: th-lib/controler/Woocommerce-Variable.php:97
+#: th-lib/controler/Woocommerce-Variable.php:140
+#: th-lib/controler/Woocommerce-Variable.php:153
+#: th-lib/controler/Woocommerce-Variable.php:172
+#: th-lib/th-elementor/Th-Banner-Info.php:247
+#: th-lib/th-elementor/Th-Products.php:1378
+#: th-lib/th-elementor/Th-Shop.php:1314
+msgid "Label"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:317
+msgid "Label button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:125
+#: th-lib/th-elementor/Th-Instagram.php:198
+msgid "Large"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1536
+#: th-lib/th-elementor/Th-Products.php:1457
+#: th-lib/th-elementor/Th-Products.php:1745
+#: th-lib/th-elementor/Th-Shop.php:1407
+msgid "Last Modified Date"
+msgstr ""
+
+#: th-templates/woocommerce/single-product/latest.php:7
+msgid "Latest products"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1362
+#: th-lib/th-elementor/Th-Products.php:1291
+#: th-lib/th-elementor/Th-Shop.php:1257
+msgid "Layout"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:513
+msgid "Layout Settings"
+msgstr ""
+
+#: comments.php:100
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:123
+#, php-format
+msgid "Leave a Reply %s"
+msgstr ""
+
+#: comments.php:122
+msgid "Leave Comments"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:254 th-lib/controler/Redux-Config.php:418
+#: th-lib/controler/Redux-Config.php:524 th-lib/controler/Redux-Config.php:548
+#: th-lib/controler/Redux-Config.php:572 th-lib/controler/Redux-Config.php:693
+#: th-lib/controler/Redux-Config.php:967 th-lib/th-elementor/Th-Account.php:299
+#: th-lib/th-elementor/Th-Banner-Info.php:436
+#: th-lib/th-elementor/Th-Banner-Info.php:683
+#: th-lib/th-elementor/Th-Banner-Info.php:708
+#: th-lib/th-elementor/Th-Box-Info.php:246
+#: th-lib/th-elementor/Th-Box-Info.php:538
+#: th-lib/th-elementor/Th-Box-Info.php:764
+#: th-lib/th-elementor/Th-Box-Info.php:1107
+#: th-lib/th-elementor/Th-Breadcrumb.php:124
+#: th-lib/th-elementor/Th-Button.php:188 th-lib/th-elementor/Th-Icon.php:116
+#: th-lib/th-elementor/Th-Icon.php:711 th-lib/th-elementor/Th-Icon.php:995
+#: th-lib/th-elementor/Th-Icon.php:1175 th-lib/th-elementor/Th-Logo.php:134
+#: th-lib/th-elementor/Th-LogoText.php:144
+#: th-lib/th-elementor/Th-Mailchimp.php:480 th-lib/th-elementor/Th-Menu.php:156
+#: th-lib/th-elementor/Th-MiniCart.php:235
+#: th-lib/th-elementor/Th-MiniCart.php:353 th-lib/th-elementor/Th-Posts.php:122
+#: th-lib/th-elementor/Th-Posts.php:1870
+#: th-lib/th-elementor/Th-Products.php:106
+#: th-lib/th-elementor/Th-Products.php:1912
+#: th-lib/th-elementor/Th-Products.php:2095
+#: th-lib/th-elementor/Th-Search.php:525 th-lib/th-elementor/Th-Shop.php:106
+#: th-lib/th-elementor/Th-Shop.php:1773 th-lib/th-elementor/Th-Slider.php:1496
+#: th-lib/th-elementor/Th-Slider.php:1521
+#: th-lib/th-elementor/Th-Slider.php:1636
+#: th-lib/th-elementor/Th-Slider.php:1817
+#: th-lib/th-elementor/Th-Slider.php:1842
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1195
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1312
+#: th-lib/th-elementor/Th-Time-Countdown.php:431
+msgid "Left"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:260
+msgid "Left Bottom"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:259
+msgid "Left Center"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:249
+msgid "Left sidebar"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:258
+msgid "Left Top"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:963
+msgid "Left, or Right, or Center"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:371
+msgid "Letter Spacing"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:357
+msgid "Lighter"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:504
+msgid "Line Arrow"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:406
+msgid "Line Height"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:408
+msgid "line-height"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:373
+#: th-lib/th-elementor/Th-Banner-Info.php:182
+#: th-lib/th-elementor/Th-Banner-Info.php:326
+#: th-lib/th-elementor/Th-Box-Info.php:744
+#: th-lib/th-elementor/Th-Box-Info.php:838
+#: th-lib/th-elementor/Th-Button.php:169 th-lib/th-elementor/Th-Icon.php:794
+#: th-lib/th-elementor/Th-Instagram.php:253
+#: th-lib/th-elementor/Th-Price-Table.php:192
+#: th-lib/th-elementor/Th-Slider.php:1375
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1165
+msgid "Link"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:199
+msgid "Link Media"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:413
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: th-templates/share.php:33
+msgid "Linkedin"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:344
+#: th-lib/th-elementor/Th-Account.php:694
+msgid "Links"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:276 th-lib/controler/Redux-Config.php:717
+#: th-lib/th-elementor/Th-Posts.php:1389 th-lib/th-elementor/Th-Posts.php:1641
+#: th-lib/th-elementor/Th-Shop.php:1270 th-lib/th-elementor/Th-Shop.php:1502
+msgid "List"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:349 th-lib/controler/Redux-Config.php:823
+msgid "List item style"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:336 th-lib/controler/Redux-Config.php:810
+msgid "List Settings"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:226
+msgid "Live search"
+msgstr ""
+
+#: archive.php:118 index.php:127 search.php:110
+#: th-lib/controler/Redux-Config.php:288 th-lib/controler/Redux-Config.php:758
+#: th-lib/controler/Woocommerce-Control.php:543
+#: th-lib/controler/Woocommerce-Control.php:962
+#: th-lib/controler/Woocommerce-Control.php:1073
+#: th-lib/th-elementor/Th-Posts.php:1585
+#: th-lib/th-elementor/Th-Products.php:1571
+#: th-lib/th-elementor/Th-Shop.php:1368
+#: th-templates/widgets/posts/grid-layout1.php:60
+#: th-templates/widgets/posts/grid.php:68
+#: th-templates/widgets/products/grid.php:62
+#: th-templates/widgets/shop/shop.php:67
+msgid "Load more"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:2499
+msgid "Load more button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:105
+#: th-lib/th-elementor/Th-Account.php:128
+msgid "Log In"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:186
+#: th-lib/th-elementor/Th-Account.php:216
+msgid "Log in"
+msgstr ""
+
+#: comments.php:117
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Logo.php:38
+msgid "Logo"
+msgstr ""
+
+#: th-templates/header-default.php:14 th-templates/header-default.php:17
+msgid "logo"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:1316
+msgid "logo mobile"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:38
+msgid "Logo Text"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:76 th-lib/controler/Redux-Config.php:112
+msgid "Look, it's on!"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:382
+#: th-lib/th-elementor/Th-Posts.php:715 th-lib/th-elementor/Th-Products.php:632
+#: th-lib/th-elementor/Th-Shop.php:632 th-lib/th-elementor/Th-Slider.php:203
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:187
+msgid "Loop"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:137
+#: th-lib/th-elementor/Th-Account.php:187
+msgid "Lost your password?"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:38
+msgid "Mailchimp"
+msgstr ""
+
+#: th-lib/config.php:94
+msgid "MailChimp for WordPress Lite"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:325
+#: th-lib/controler/Redux-Config.php:192
+#: th-lib/th-elementor/Th-Time-Countdown.php:441
+msgid "Main color"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:331
+#: th-lib/controler/Redux-Config.php:198
+msgid "Main color 2"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:639
+msgid "Main Content"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:680
+#: th-lib/th-elementor/Th-Banner-Info.php:800
+#: th-lib/th-elementor/Th-Box-Info.php:187 th-lib/th-elementor/Th-Icon.php:507
+#: th-lib/th-elementor/Th-Icon.php:1405
+#: th-lib/th-elementor/Th-Instagram.php:786
+#: th-lib/th-elementor/Th-Instagram.php:860
+#: th-lib/th-elementor/Th-LogoText.php:236
+#: th-lib/th-elementor/Th-Mailchimp.php:392
+#: th-lib/th-elementor/Th-Mailchimp.php:510
+#: th-lib/th-elementor/Th-Mailchimp.php:626 th-lib/th-elementor/Th-Menu.php:313
+#: th-lib/th-elementor/Th-Menu.php:857 th-lib/th-elementor/Th-Menu.php:1070
+#: th-lib/th-elementor/Th-Menu.php:1271 th-lib/th-elementor/Th-MiniCart.php:550
+#: th-lib/th-elementor/Th-Popup.php:191 th-lib/th-elementor/Th-Posts.php:768
+#: th-lib/th-elementor/Th-Posts.php:827 th-lib/th-elementor/Th-Posts.php:942
+#: th-lib/th-elementor/Th-Price-Table.php:291
+#: th-lib/th-elementor/Th-Products.php:685
+#: th-lib/th-elementor/Th-Products.php:759
+#: th-lib/th-elementor/Th-Products.php:886
+#: th-lib/th-elementor/Th-Products.php:2268
+#: th-lib/th-elementor/Th-Products.php:2351
+#: th-lib/th-elementor/Th-Products.php:2451
+#: th-lib/th-elementor/Th-Search.php:435 th-lib/th-elementor/Th-Search.php:555
+#: th-lib/th-elementor/Th-Search.php:674 th-lib/th-elementor/Th-Search.php:925
+#: th-lib/th-elementor/Th-Shop.php:685 th-lib/th-elementor/Th-Shop.php:759
+#: th-lib/th-elementor/Th-Shop.php:874 th-lib/th-elementor/Th-Slider.php:408
+#: th-lib/th-elementor/Th-Slider.php:625 th-lib/th-elementor/Th-Slider.php:692
+#: th-lib/th-elementor/Th-Slider.php:817
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:392
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:538
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:663
+#: th-lib/th-elementor/Th-Time-Countdown.php:175
+msgid "Margin"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:401 th-lib/controler/Redux-Config.php:873
+#: th-lib/th-elementor/Th-Posts.php:1631
+#: th-lib/th-elementor/Th-Products.php:1557
+#: th-lib/th-elementor/Th-Shop.php:1492
+msgid "Masonry"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Logo.php:200
+#: th-lib/th-elementor/Th-Time-Countdown.php:552
+msgid "Max Width"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:130
+msgid "Media from"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:135
+msgid "Media library"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:124
+#: th-lib/th-elementor/Th-Instagram.php:197
+msgid "Medium"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1247
+msgid "Mega content"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:23
+#: th-lib/controler/MegaItem-Control.php:24
+#: th-lib/controler/MegaItem-Control.php:25
+#: th-lib/controler/MegaItem-Control.php:26
+msgid "Mega Page"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:38
+msgid "Menu"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:132
+msgid "Menu icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:271
+msgid "Menu item style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1491
+#: th-lib/th-elementor/Th-Products.php:1779
+msgid "Menu order"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:152
+msgid "Menu position"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:110
+msgid "Menu settings"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:195
+msgid "Menu side/mobile"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:140
+msgid "Menu sticky"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:127
+msgid "Menu style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1460 th-lib/th-elementor/Th-Posts.php:1941
+msgid "Meta"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1448
+msgid "Meta data"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:737
+#: th-lib/th-elementor/Th-Instagram.php:370 th-lib/th-elementor/Th-Menu.php:832
+#: th-lib/th-elementor/Th-Slider.php:191 th-lib/th-elementor/Th-Slider.php:1550
+#: th-lib/th-elementor/Th-Slider.php:1871
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:175
+msgid "Middle"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:38
+msgid "Mini Cart"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:330
+msgid "Minute text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:1225
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1490
+#: th-lib/th-elementor/Th-Products.php:1778
+msgid "Most view"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:394
+#: th-lib/th-elementor/Th-Slider.php:215
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:199
+msgid "Mousewheel"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:424
+msgid "Move"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:363
+msgid "Move down"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:350
+msgid "Move up"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1534
+#: th-lib/th-elementor/Th-Products.php:1455
+#: th-lib/th-elementor/Th-Products.php:1743
+#: th-lib/th-elementor/Th-Shop.php:1405
+msgid "Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Name*"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:406
+#: th-lib/th-elementor/Th-Posts.php:727 th-lib/th-elementor/Th-Products.php:644
+#: th-lib/th-elementor/Th-Shop.php:644 th-lib/th-elementor/Th-Slider.php:227
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:211
+msgid "Navigation"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:383
+msgid "Navigation Label"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:632
+msgid "new"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:29
+msgid "New Footer"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:29
+msgid "New Header"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:29
+msgid "New Mega Page"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:29
+msgid "New Portfolio"
+msgstr ""
+
+#: comments.php:82
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: th-lib/widget/attribute-filter.php:292
+msgid "No any attribute."
+msgstr ""
+
+#: th-lib/widget/category-filter.php:111
+msgid "No any category."
+msgstr ""
+
+#: th-templates/posts/content-none.php:2
+msgid "No any post to display. Please recheck your posts."
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:1200
+msgid "No any results with this keyword."
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:36
+msgid "No Footer found in Trash."
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:35
+msgid "No Footer found."
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:36
+msgid "No Header found in Trash."
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:35
+msgid "No Header found."
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:36
+msgid "No Mega Page found in Trash."
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:35
+msgid "No Mega Page found."
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:36
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:35
+msgid "No Portfolio found."
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:146
+#: th-templates/woocommerce/cart/mini-cart.php:57
+msgid "No products in the cart."
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:244
+msgid "No Repeat"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:1059
+#: th-lib/controler/Woocommerce-Control.php:1088
+msgid "No result found with current filter value."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:245
+#: th-lib/controler/Redux-Config.php:253 th-lib/controler/Redux-Config.php:417
+#: th-lib/controler/Redux-Config.php:523 th-lib/controler/Redux-Config.php:547
+#: th-lib/controler/Redux-Config.php:571 th-lib/controler/Redux-Config.php:692
+#: th-lib/controler/Redux-Config.php:966
+msgid "No Sidebar"
+msgstr ""
+
+#: th-lib/function.php:419
+msgid "No Tag"
+msgstr ""
+
+#: th-lib/function.php:547 th-lib/controler/Redux-Config.php:988
+#: th-lib/th-elementor/Th-Banner-Info.php:105
+#: th-lib/th-elementor/Th-Icon.php:1113 th-lib/th-elementor/Th-Menu.php:507
+#: th-lib/th-elementor/Th-Posts.php:1530 th-lib/th-elementor/Th-Posts.php:1583
+#: th-lib/th-elementor/Th-Products.php:527
+#: th-lib/th-elementor/Th-Products.php:1451
+#: th-lib/th-elementor/Th-Products.php:1569
+#: th-lib/th-elementor/Th-Products.php:1739 th-lib/th-elementor/Th-Shop.php:527
+#: th-lib/th-elementor/Th-Shop.php:1366 th-lib/th-elementor/Th-Shop.php:1401
+msgid "None"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:335
+#: th-lib/controler/Customize-Control.php:345
+#: th-lib/controler/Customize-Control.php:354
+#: th-lib/controler/Metabox-Control.php:418
+#: th-lib/controler/Redux-Config.php:1001
+#: th-lib/th-elementor/Th-Account.php:517
+#: th-lib/th-elementor/Th-Banner-Info.php:479
+#: th-lib/th-elementor/Th-Box-Info.php:116
+#: th-lib/th-elementor/Th-Box-Info.php:367
+#: th-lib/th-elementor/Th-Breadcrumb.php:216
+#: th-lib/th-elementor/Th-Button.php:296 th-lib/th-elementor/Th-Icon.php:237
+#: th-lib/th-elementor/Th-Icon.php:366 th-lib/th-elementor/Th-Icon.php:435
+#: th-lib/th-elementor/Th-Icon.php:808 th-lib/th-elementor/Th-Icon.php:1019
+#: th-lib/th-elementor/Th-Icon.php:1375
+#: th-lib/th-elementor/Th-Instagram.php:479
+#: th-lib/th-elementor/Th-Instagram.php:681
+#: th-lib/th-elementor/Th-Instagram.php:873
+#: th-lib/th-elementor/Th-Instagram.php:1090
+#: th-lib/th-elementor/Th-Logo.php:236 th-lib/th-elementor/Th-LogoText.php:315
+#: th-lib/th-elementor/Th-Mailchimp.php:271 th-lib/th-elementor/Th-Menu.php:330
+#: th-lib/th-elementor/Th-Menu.php:570 th-lib/th-elementor/Th-Menu.php:957
+#: th-lib/th-elementor/Th-Menu.php:1129 th-lib/th-elementor/Th-MiniCart.php:387
+#: th-lib/th-elementor/Th-Popup.php:101 th-lib/th-elementor/Th-Posts.php:243
+#: th-lib/th-elementor/Th-Posts.php:374 th-lib/th-elementor/Th-Posts.php:447
+#: th-lib/th-elementor/Th-Posts.php:506 th-lib/th-elementor/Th-Posts.php:955
+#: th-lib/th-elementor/Th-Posts.php:1195
+#: th-lib/th-elementor/Th-Products.php:227
+#: th-lib/th-elementor/Th-Products.php:356
+#: th-lib/th-elementor/Th-Products.php:415
+#: th-lib/th-elementor/Th-Products.php:899
+#: th-lib/th-elementor/Th-Products.php:1139
+#: th-lib/th-elementor/Th-Products.php:2228
+#: th-lib/th-elementor/Th-Search.php:335 th-lib/th-elementor/Th-Search.php:780
+#: th-lib/th-elementor/Th-Shop.php:227 th-lib/th-elementor/Th-Shop.php:356
+#: th-lib/th-elementor/Th-Shop.php:415 th-lib/th-elementor/Th-Shop.php:887
+#: th-lib/th-elementor/Th-Shop.php:1105 th-lib/th-elementor/Th-Slider.php:272
+#: th-lib/th-elementor/Th-Slider.php:464 th-lib/th-elementor/Th-Slider.php:551
+#: th-lib/th-elementor/Th-Slider.php:830 th-lib/th-elementor/Th-Slider.php:1084
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:256
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:448
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:676
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:930
+#: th-lib/th-elementor/Th-Time-Countdown.php:103
+msgid "Normal"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:320 th-lib/controler/Redux-Config.php:792
+#: th-lib/th-elementor/Th-Icon.php:1290 th-lib/th-elementor/Th-MiniCart.php:564
+#: th-lib/th-elementor/Th-Posts.php:1515 th-lib/th-elementor/Th-Posts.php:1770
+#: th-lib/th-elementor/Th-Products.php:1436
+#: th-lib/th-elementor/Th-Products.php:1724
+#: th-lib/th-elementor/Th-Shop.php:1386 th-lib/th-elementor/Th-Shop.php:1559
+#: th-lib/th-elementor/Th-Time-Countdown.php:605
+msgid "Number"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:337
+msgid "Oblique"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:304
+#: th-lib/th-elementor/Th-Banner-Info.php:275
+#: th-lib/th-elementor/Th-Banner-Info.php:287
+#: th-lib/th-elementor/Th-Banner-Info.php:358
+#: th-lib/th-elementor/Th-Banner-Info.php:377
+#: th-lib/th-elementor/Th-Box-Info.php:887
+#: th-lib/th-elementor/Th-Box-Info.php:925 th-lib/th-elementor/Th-Icon.php:698
+#: th-lib/th-elementor/Th-Icon.php:748 th-lib/th-elementor/Th-Instagram.php:349
+#: th-lib/th-elementor/Th-Instagram.php:361
+#: th-lib/th-elementor/Th-Instagram.php:373
+#: th-lib/th-elementor/Th-Instagram.php:385
+#: th-lib/th-elementor/Th-Instagram.php:397 th-lib/th-elementor/Th-Menu.php:143
+#: th-lib/th-elementor/Th-Posts.php:694 th-lib/th-elementor/Th-Posts.php:706
+#: th-lib/th-elementor/Th-Posts.php:718 th-lib/th-elementor/Th-Posts.php:1417
+#: th-lib/th-elementor/Th-Posts.php:1439 th-lib/th-elementor/Th-Posts.php:1451
+#: th-lib/th-elementor/Th-Posts.php:1484 th-lib/th-elementor/Th-Posts.php:1496
+#: th-lib/th-elementor/Th-Posts.php:1732 th-lib/th-elementor/Th-Posts.php:1744
+#: th-lib/th-elementor/Th-Posts.php:1759 th-lib/th-elementor/Th-Posts.php:1773
+#: th-lib/th-elementor/Th-Products.php:611
+#: th-lib/th-elementor/Th-Products.php:623
+#: th-lib/th-elementor/Th-Products.php:635
+#: th-lib/th-elementor/Th-Products.php:828
+#: th-lib/th-elementor/Th-Products.php:1333
+#: th-lib/th-elementor/Th-Products.php:1345
+#: th-lib/th-elementor/Th-Products.php:1357
+#: th-lib/th-elementor/Th-Products.php:1369
+#: th-lib/th-elementor/Th-Products.php:1381
+#: th-lib/th-elementor/Th-Products.php:1393
+#: th-lib/th-elementor/Th-Products.php:1405
+#: th-lib/th-elementor/Th-Products.php:1417
+#: th-lib/th-elementor/Th-Products.php:1594
+#: th-lib/th-elementor/Th-Products.php:1654
+#: th-lib/th-elementor/Th-Search.php:229 th-lib/th-elementor/Th-Shop.php:611
+#: th-lib/th-elementor/Th-Shop.php:623 th-lib/th-elementor/Th-Shop.php:635
+#: th-lib/th-elementor/Th-Shop.php:1281 th-lib/th-elementor/Th-Shop.php:1293
+#: th-lib/th-elementor/Th-Shop.php:1305 th-lib/th-elementor/Th-Shop.php:1317
+#: th-lib/th-elementor/Th-Shop.php:1329 th-lib/th-elementor/Th-Shop.php:1341
+#: th-lib/th-elementor/Th-Shop.php:1353 th-lib/th-elementor/Th-Shop.php:1536
+#: th-lib/th-elementor/Th-Shop.php:1548 th-lib/th-elementor/Th-Shop.php:1562
+#: th-lib/th-elementor/Th-Shop.php:1577 th-lib/th-elementor/Th-Shop.php:1602
+#: th-lib/th-elementor/Th-Shop.php:1662 th-lib/th-elementor/Th-Slider.php:170
+#: th-lib/th-elementor/Th-Slider.php:182 th-lib/th-elementor/Th-Slider.php:194
+#: th-lib/th-elementor/Th-Slider.php:206 th-lib/th-elementor/Th-Slider.php:218
+#: th-lib/th-elementor/Th-Slider.php:1300
+#: th-lib/th-elementor/Th-Slider.php:1329
+#: th-lib/th-elementor/Th-Slider.php:1359
+#: th-lib/th-elementor/Th-Slider.php:1415
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:154
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:166
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:178
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:190
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:202
+#: th-lib/th-elementor/Th-Time-Countdown.php:270
+#: th-lib/th-elementor/Th-Time-Countdown.php:285
+#: th-lib/th-elementor/Th-Time-Countdown.php:297
+msgid "Off"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:300
+#: th-lib/th-elementor/Th-Banner-Info.php:274
+#: th-lib/th-elementor/Th-Banner-Info.php:286
+#: th-lib/th-elementor/Th-Banner-Info.php:357
+#: th-lib/th-elementor/Th-Banner-Info.php:376
+#: th-lib/th-elementor/Th-Box-Info.php:886
+#: th-lib/th-elementor/Th-Box-Info.php:924 th-lib/th-elementor/Th-Icon.php:697
+#: th-lib/th-elementor/Th-Icon.php:747 th-lib/th-elementor/Th-Instagram.php:348
+#: th-lib/th-elementor/Th-Instagram.php:360
+#: th-lib/th-elementor/Th-Instagram.php:372
+#: th-lib/th-elementor/Th-Instagram.php:384
+#: th-lib/th-elementor/Th-Instagram.php:396 th-lib/th-elementor/Th-Menu.php:142
+#: th-lib/th-elementor/Th-Posts.php:693 th-lib/th-elementor/Th-Posts.php:705
+#: th-lib/th-elementor/Th-Posts.php:717 th-lib/th-elementor/Th-Posts.php:1416
+#: th-lib/th-elementor/Th-Posts.php:1438 th-lib/th-elementor/Th-Posts.php:1450
+#: th-lib/th-elementor/Th-Posts.php:1483 th-lib/th-elementor/Th-Posts.php:1495
+#: th-lib/th-elementor/Th-Posts.php:1731 th-lib/th-elementor/Th-Posts.php:1743
+#: th-lib/th-elementor/Th-Posts.php:1758 th-lib/th-elementor/Th-Posts.php:1772
+#: th-lib/th-elementor/Th-Products.php:610
+#: th-lib/th-elementor/Th-Products.php:622
+#: th-lib/th-elementor/Th-Products.php:634
+#: th-lib/th-elementor/Th-Products.php:827
+#: th-lib/th-elementor/Th-Products.php:1332
+#: th-lib/th-elementor/Th-Products.php:1344
+#: th-lib/th-elementor/Th-Products.php:1356
+#: th-lib/th-elementor/Th-Products.php:1368
+#: th-lib/th-elementor/Th-Products.php:1380
+#: th-lib/th-elementor/Th-Products.php:1392
+#: th-lib/th-elementor/Th-Products.php:1404
+#: th-lib/th-elementor/Th-Products.php:1416
+#: th-lib/th-elementor/Th-Products.php:1593
+#: th-lib/th-elementor/Th-Products.php:1653
+#: th-lib/th-elementor/Th-Search.php:228 th-lib/th-elementor/Th-Shop.php:610
+#: th-lib/th-elementor/Th-Shop.php:622 th-lib/th-elementor/Th-Shop.php:634
+#: th-lib/th-elementor/Th-Shop.php:1280 th-lib/th-elementor/Th-Shop.php:1292
+#: th-lib/th-elementor/Th-Shop.php:1304 th-lib/th-elementor/Th-Shop.php:1316
+#: th-lib/th-elementor/Th-Shop.php:1328 th-lib/th-elementor/Th-Shop.php:1340
+#: th-lib/th-elementor/Th-Shop.php:1352 th-lib/th-elementor/Th-Shop.php:1535
+#: th-lib/th-elementor/Th-Shop.php:1547 th-lib/th-elementor/Th-Shop.php:1561
+#: th-lib/th-elementor/Th-Shop.php:1576 th-lib/th-elementor/Th-Shop.php:1601
+#: th-lib/th-elementor/Th-Shop.php:1661 th-lib/th-elementor/Th-Slider.php:169
+#: th-lib/th-elementor/Th-Slider.php:181 th-lib/th-elementor/Th-Slider.php:193
+#: th-lib/th-elementor/Th-Slider.php:205 th-lib/th-elementor/Th-Slider.php:217
+#: th-lib/th-elementor/Th-Slider.php:1299
+#: th-lib/th-elementor/Th-Slider.php:1328
+#: th-lib/th-elementor/Th-Slider.php:1358
+#: th-lib/th-elementor/Th-Slider.php:1414
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:153
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:165
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:177
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:189
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:201
+#: th-lib/th-elementor/Th-Time-Countdown.php:269
+#: th-lib/th-elementor/Th-Time-Countdown.php:284
+#: th-lib/th-elementor/Th-Time-Countdown.php:296
+msgid "On"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:281
+msgid "On Load"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1488
+#: th-lib/th-elementor/Th-Products.php:1776
+msgid "On Sale"
+msgstr ""
+
+#: 404.php:42
+msgid "Oops!"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:486
+#: th-lib/th-elementor/Th-Banner-Info.php:520
+#: th-lib/th-elementor/Th-Icon.php:1029 th-lib/th-elementor/Th-Icon.php:1066
+#: th-lib/th-elementor/Th-Icon.php:1438 th-lib/th-elementor/Th-Icon.php:1493
+#: th-lib/th-elementor/Th-Instagram.php:1109
+#: th-lib/th-elementor/Th-Instagram.php:1155
+#: th-lib/th-elementor/Th-Logo.php:243 th-lib/th-elementor/Th-Logo.php:277
+#: th-lib/th-elementor/Th-Posts.php:513 th-lib/th-elementor/Th-Posts.php:558
+#: th-lib/th-elementor/Th-Posts.php:1214 th-lib/th-elementor/Th-Posts.php:1260
+#: th-lib/th-elementor/Th-Products.php:422
+#: th-lib/th-elementor/Th-Products.php:467
+#: th-lib/th-elementor/Th-Products.php:1158
+#: th-lib/th-elementor/Th-Products.php:1204 th-lib/th-elementor/Th-Shop.php:422
+#: th-lib/th-elementor/Th-Shop.php:467 th-lib/th-elementor/Th-Shop.php:1124
+#: th-lib/th-elementor/Th-Shop.php:1170 th-lib/th-elementor/Th-Slider.php:279
+#: th-lib/th-elementor/Th-Slider.php:324 th-lib/th-elementor/Th-Slider.php:1103
+#: th-lib/th-elementor/Th-Slider.php:1149
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:263
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:308
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:949
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:995
+msgid "Opacity"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:396
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1546
+#: th-lib/th-elementor/Th-Products.php:1467
+#: th-lib/th-elementor/Th-Products.php:1755
+#: th-lib/th-elementor/Th-Shop.php:1417 th-lib/th-elementor/Th-Shop.php:1574
+msgid "Order"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1526
+#: th-lib/th-elementor/Th-Products.php:1447
+#: th-lib/th-elementor/Th-Products.php:1735
+#: th-lib/th-elementor/Th-Shop.php:1397
+msgid "Order by"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:436
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:143
+msgid "Other"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:622
+#: th-lib/th-elementor/Th-Slider.php:1435
+#: th-lib/th-elementor/Th-Slider.php:1756
+msgid "Outter"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:457
+msgid "Overflow"
+msgstr ""
+
+#: th-lib/function.php:566 th-lib/th-elementor/Th-Banner-Info.php:112
+#: th-lib/th-elementor/Th-Icon.php:1120 th-lib/th-elementor/Th-Posts.php:539
+#: th-lib/th-elementor/Th-Posts.php:584 th-lib/th-elementor/Th-Products.php:448
+#: th-lib/th-elementor/Th-Products.php:493 th-lib/th-elementor/Th-Shop.php:448
+#: th-lib/th-elementor/Th-Shop.php:493 th-lib/th-elementor/Th-Slider.php:305
+#: th-lib/th-elementor/Th-Slider.php:350
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:289
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:334
+msgid "Overlay"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1583
+msgid "Overlay background"
+msgstr ""
+
+#: th-lib/function.php:567 th-lib/th-elementor/Th-Banner-Info.php:113
+#: th-lib/th-elementor/Th-Icon.php:1121
+msgid "Overlay Zoom"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:658
+#: th-lib/th-elementor/Th-Banner-Info.php:243
+msgid "p"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:668
+#: th-lib/th-elementor/Th-Banner-Info.php:779
+#: th-lib/th-elementor/Th-Box-Info.php:175
+#: th-lib/th-elementor/Th-Box-Info.php:395
+#: th-lib/th-elementor/Th-Box-Info.php:444
+#: th-lib/th-elementor/Th-Breadcrumb.php:240
+#: th-lib/th-elementor/Th-Button.php:335 th-lib/th-elementor/Th-Button.php:416
+#: th-lib/th-elementor/Th-Icon.php:265 th-lib/th-elementor/Th-Icon.php:314
+#: th-lib/th-elementor/Th-Icon.php:494 th-lib/th-elementor/Th-Icon.php:1393
+#: th-lib/th-elementor/Th-Instagram.php:623
+#: th-lib/th-elementor/Th-Instagram.php:774
+#: th-lib/th-elementor/Th-Instagram.php:848
+#: th-lib/th-elementor/Th-LogoText.php:426
+#: th-lib/th-elementor/Th-Mailchimp.php:380
+#: th-lib/th-elementor/Th-Mailchimp.php:498
+#: th-lib/th-elementor/Th-Mailchimp.php:614 th-lib/th-elementor/Th-Menu.php:222
+#: th-lib/th-elementor/Th-Menu.php:769 th-lib/th-elementor/Th-Menu.php:845
+#: th-lib/th-elementor/Th-Menu.php:1057 th-lib/th-elementor/Th-Menu.php:1283
+#: th-lib/th-elementor/Th-MiniCart.php:538
+#: th-lib/th-elementor/Th-MiniCart.php:795
+#: th-lib/th-elementor/Th-MiniCart.php:892 th-lib/th-elementor/Th-Popup.php:179
+#: th-lib/th-elementor/Th-Posts.php:271 th-lib/th-elementor/Th-Posts.php:320
+#: th-lib/th-elementor/Th-Posts.php:755 th-lib/th-elementor/Th-Posts.php:815
+#: th-lib/th-elementor/Th-Posts.php:930
+#: th-lib/th-elementor/Th-Price-Table.php:279
+#: th-lib/th-elementor/Th-Products.php:255
+#: th-lib/th-elementor/Th-Products.php:304
+#: th-lib/th-elementor/Th-Products.php:672
+#: th-lib/th-elementor/Th-Products.php:747
+#: th-lib/th-elementor/Th-Products.php:874
+#: th-lib/th-elementor/Th-Products.php:2256
+#: th-lib/th-elementor/Th-Products.php:2339
+#: th-lib/th-elementor/Th-Products.php:2439
+#: th-lib/th-elementor/Th-Search.php:422 th-lib/th-elementor/Th-Search.php:543
+#: th-lib/th-elementor/Th-Search.php:662 th-lib/th-elementor/Th-Search.php:913
+#: th-lib/th-elementor/Th-Shop.php:255 th-lib/th-elementor/Th-Shop.php:304
+#: th-lib/th-elementor/Th-Shop.php:672 th-lib/th-elementor/Th-Shop.php:747
+#: th-lib/th-elementor/Th-Shop.php:862 th-lib/th-elementor/Th-Slider.php:395
+#: th-lib/th-elementor/Th-Slider.php:613 th-lib/th-elementor/Th-Slider.php:680
+#: th-lib/th-elementor/Th-Slider.php:805
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:379
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:526
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:651
+#: th-lib/th-elementor/Th-Time-Countdown.php:163
+msgid "Padding"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:735 th-lib/th-elementor/Th-Shop.php:735
+msgid "Padding Column"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:658
+msgid "Padding wrap"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:353
+#: th-lib/controler/Redux-Config.php:208
+msgid "Page boxed"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1622
+msgid "Page ID: {{{megapage}}}"
+msgstr ""
+
+#: 404.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:43
+msgid "Page not found on server"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:208
+msgid "Page Settings"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:344
+#: th-lib/controler/Redux-Config.php:204
+msgid "Page Style"
+msgstr ""
+
+#: page.php:38 single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:418
+#: th-lib/th-elementor/Th-Posts.php:739 th-lib/th-elementor/Th-Posts.php:1584
+#: th-lib/th-elementor/Th-Products.php:656
+#: th-lib/th-elementor/Th-Products.php:1570 th-lib/th-elementor/Th-Shop.php:656
+#: th-lib/th-elementor/Th-Shop.php:1362 th-lib/th-elementor/Th-Shop.php:1367
+#: th-lib/th-elementor/Th-Slider.php:239
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:223
+msgid "Pagination"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:738
+msgid "Panel Menu Border"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1537
+#: th-lib/th-elementor/Th-Products.php:1458
+#: th-lib/th-elementor/Th-Products.php:1746
+#: th-lib/th-elementor/Th-Shop.php:1408
+msgid "Parent"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:34
+msgid "Parent Footer:"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:34
+msgid "Parent Header:"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:34
+msgid "Parent Mega Page:"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:34
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:115
+#: th-lib/th-elementor/Th-Account.php:166
+msgid "Password"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:199
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:177
+msgid "Photos number"
+msgstr ""
+
+#: comments.php:31
+msgid "Pingback:"
+msgstr ""
+
+#: th-templates/share.php:28
+msgid "Pinterest"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:141
+#: th-lib/th-elementor/Th-Search.php:179
+msgid "Placeholder"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:1034
+msgid "Please enter key search to display results."
+msgstr ""
+
+#: th-lib/class/require-plugin.php:56
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: th-lib/class/importer.php:53
+msgid "Plugin: 7up core must be installed first. Stop working!"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:505
+msgid "Plus"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:38
+msgid "Popup"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Popup.php:315
+msgid "Popup box"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:23
+#: th-lib/controler/Portfolio-Control.php:24
+#: th-lib/controler/Portfolio-Control.php:25
+#: th-lib/controler/Portfolio-Control.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:64
+msgid "Portfolio Category"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:75
+msgid "Portfolio Option"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:823
+msgid "Position"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:754
+#: th-lib/th-elementor/Th-Slider.php:1567
+#: th-lib/th-elementor/Th-Slider.php:1888
+msgid "Position Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:649
+msgid "Position left"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:671
+msgid "Position top"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:193
+msgid "Post"
+msgstr ""
+
+#: comments.php:125
+msgid "Post a comment"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:407
+msgid "Post detail Settings"
+msgstr ""
+
+#: th-lib/function.php:538
+msgid "Post grid 2"
+msgstr ""
+
+#: th-lib/function.php:526
+msgid "Post list 2"
+msgstr ""
+
+#: th-lib/function.php:527
+msgid "Post list 3"
+msgstr ""
+
+#: th-lib/function.php:528
+msgid "Post list 4"
+msgstr ""
+
+#: th-lib/function.php:529
+msgid "Post list 5"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1538
+#: th-lib/th-elementor/Th-Products.php:1459
+#: th-lib/th-elementor/Th-Products.php:1747
+#: th-lib/th-elementor/Th-Shop.php:1409
+msgid "Post views"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:39
+msgid "Posts"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:104
+msgid "Preload"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:125
+msgid "Preload Style"
+msgstr ""
+
+#: th-lib/function.php:253
+msgid "preload-image"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:258
+#: th-lib/th-elementor/Th-MiniCart.php:706
+#: th-lib/th-elementor/Th-Price-Table.php:153
+#: th-lib/th-elementor/Th-Products.php:1390
+#: th-lib/th-elementor/Th-Products.php:1651
+#: th-lib/th-elementor/Th-Products.php:1971
+#: th-lib/th-elementor/Th-Shop.php:1326 th-lib/th-elementor/Th-Shop.php:1659
+#: th-lib/th-elementor/Th-Shop.php:1832 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:94
+#: th-templates/woocommerce/loop/filter-product.php:40
+msgid "Price"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Price-Table.php:38
+msgid "Price Table (TH)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:322
+#: th-lib/th-elementor/Th-LogoText.php:366
+msgid "Primary Color"
+msgstr ""
+
+#: th-lib/config.php:20
+msgid "Primary Navigation"
+msgstr ""
+
+#. Name of the theme
+msgid "Printing"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:439
+msgid "Priority (Default 40)"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:938 th-lib/th-elementor/Th-Search.php:192
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:74
+msgid "Product"
+msgstr ""
+
+#. Name of the template
+msgid "Product action"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:541
+msgid "Product categories"
+msgstr ""
+
+#: th-lib/function.php:591
+msgid "Product grid 2"
+msgstr ""
+
+#: th-lib/function.php:592
+msgid "Product grid 3"
+msgstr ""
+
+#: th-lib/function.php:593
+msgid "Product grid 4"
+msgstr ""
+
+#: th-lib/function.php:594
+msgid "Product grid 5"
+msgstr ""
+
+#: th-lib/function.php:595
+msgid "Product grid 6"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:466
+msgid "Product hover image"
+msgstr ""
+
+#: th-lib/function.php:582
+msgid "Product list 2"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:748
+msgid "Product new in(days)"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:741
+msgid "Product Number"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:23
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:372
+msgid "Product Settings"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:401
+#: th-lib/controler/Redux-Config.php:950
+msgid "Product style"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:413
+msgid "Product Tab Style"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:998
+msgid "Product tab style"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:468
+msgid ""
+"Product thumbnail 2. Some hover animation of thumbnail show back image. "
+"Default return main product thumbnail."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:459
+msgid "Product Trending"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:451
+msgid "Product Type"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1480
+#: th-lib/th-elementor/Th-Products.php:1768
+msgid "Product type"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:554 th-lib/th-elementor/Th-Products.php:38
+msgid "Products"
+msgstr ""
+
+#: th-lib/function.php:571 th-lib/th-elementor/Th-Banner-Info.php:117
+#: th-lib/th-elementor/Th-Icon.php:1125
+msgid "Pull curtain"
+msgstr ""
+
+#: th-lib/function.php:572 th-lib/th-elementor/Th-Banner-Info.php:118
+#: th-lib/th-elementor/Th-Icon.php:1126
+msgid "Pull curtain gray image"
+msgstr ""
+
+#: th-lib/function.php:573 th-lib/th-elementor/Th-Banner-Info.php:119
+#: th-lib/th-elementor/Th-Icon.php:1127
+msgid "Pull curtain zoom image"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Price-Table.php:209
+msgid "Purchase"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:100
+msgid "Quantity"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1507
+#: th-lib/th-elementor/Th-Products.php:1428
+#: th-lib/th-elementor/Th-Shop.php:1378
+msgid "Query"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:610
+#: th-lib/th-elementor/Th-Products.php:1366
+#: th-lib/th-elementor/Th-Shop.php:1302
+msgid "Quick View"
+msgstr ""
+
+#: th-templates/woocommerce/loop/grid/grid-style6.php:17
+msgid "Quick view"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:661
+msgid "quote"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1402
+#: th-lib/th-elementor/Th-Shop.php:1338
+msgid "Rate"
+msgstr ""
+
+#: archive.php:43 index.php:45 search.php:37
+#: th-lib/th-elementor/Th-Box-Info.php:911
+#: th-lib/th-elementor/Th-Button.php:137 th-lib/th-elementor/Th-Button.php:138
+#: th-lib/th-elementor/Th-Icon.php:104 th-lib/th-elementor/Th-Posts.php:110
+#: th-templates/posts/single-content/related.php:47
+msgid "Read more"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:198
+msgid "Recover your password"
+msgstr ""
+
+#: th-lib/config.php:79
+msgid "Redux Framework"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:135
+#: th-lib/th-elementor/Th-Account.php:181
+#: th-lib/th-elementor/Th-Account.php:219
+msgid "Register"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:107
+msgid "Registration complete. Please check your email."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:178
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1979
+#: th-lib/th-elementor/Th-Shop.php:1840
+msgid "Regular"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:495
+msgid "Related custom number item responsive"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:502
+msgid "Related item style"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:488
+msgid "Related number post"
+msgstr ""
+
+#: th-templates/woocommerce/single-product/related.php:8
+msgid "Related products"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:481
+msgid "Related title"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:783
+msgid "Relevance"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:125
+msgid "Remember Me"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:136 th-lib/class/mega-menu.php:449
+#: th-lib/controler/Customize-Control.php:277
+#: th-lib/controler/Woocommerce-Variable.php:118
+msgid "Remove"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:171
+msgid "Remove style content"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:172
+msgid "Remove style tag in content."
+msgstr ""
+
+#: woocommerce/cart/cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:245
+msgid "Repeat All"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:246
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:247
+msgid "Repeat Vertically"
+msgstr ""
+
+#: comments.php:47
+msgid "Reply"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:197
+msgid "Reset password"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:55
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:255 th-lib/controler/Redux-Config.php:419
+#: th-lib/controler/Redux-Config.php:525 th-lib/controler/Redux-Config.php:549
+#: th-lib/controler/Redux-Config.php:573 th-lib/controler/Redux-Config.php:694
+#: th-lib/controler/Redux-Config.php:968 th-lib/th-elementor/Th-Account.php:303
+#: th-lib/th-elementor/Th-Banner-Info.php:444
+#: th-lib/th-elementor/Th-Banner-Info.php:691
+#: th-lib/th-elementor/Th-Banner-Info.php:716
+#: th-lib/th-elementor/Th-Box-Info.php:254
+#: th-lib/th-elementor/Th-Box-Info.php:546
+#: th-lib/th-elementor/Th-Box-Info.php:772
+#: th-lib/th-elementor/Th-Box-Info.php:1115
+#: th-lib/th-elementor/Th-Breadcrumb.php:132
+#: th-lib/th-elementor/Th-Button.php:196 th-lib/th-elementor/Th-Icon.php:124
+#: th-lib/th-elementor/Th-Icon.php:715 th-lib/th-elementor/Th-Icon.php:1003
+#: th-lib/th-elementor/Th-Icon.php:1183 th-lib/th-elementor/Th-Logo.php:142
+#: th-lib/th-elementor/Th-LogoText.php:152
+#: th-lib/th-elementor/Th-Mailchimp.php:488 th-lib/th-elementor/Th-Menu.php:158
+#: th-lib/th-elementor/Th-MiniCart.php:243
+#: th-lib/th-elementor/Th-MiniCart.php:361 th-lib/th-elementor/Th-Posts.php:130
+#: th-lib/th-elementor/Th-Posts.php:1878
+#: th-lib/th-elementor/Th-Products.php:114
+#: th-lib/th-elementor/Th-Products.php:1920
+#: th-lib/th-elementor/Th-Products.php:2103
+#: th-lib/th-elementor/Th-Search.php:533 th-lib/th-elementor/Th-Shop.php:114
+#: th-lib/th-elementor/Th-Shop.php:1781 th-lib/th-elementor/Th-Slider.php:1504
+#: th-lib/th-elementor/Th-Slider.php:1529
+#: th-lib/th-elementor/Th-Slider.php:1644
+#: th-lib/th-elementor/Th-Slider.php:1825
+#: th-lib/th-elementor/Th-Slider.php:1850
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1203
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1320
+msgid "Right"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:432
+msgid "right"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:266
+msgid "Right Bottom"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:265
+msgid "Right Center"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:253
+msgid "Right sidebar"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:264
+msgid "Right Top"
+msgstr ""
+
+#: th-lib/function.php:549 th-lib/th-elementor/Th-LogoText.php:446
+#: th-lib/th-elementor/Th-Products.php:529 th-lib/th-elementor/Th-Shop.php:529
+msgid "Rotate"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:2011
+#: th-lib/th-elementor/Th-Shop.php:1872
+msgid "Sale"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:253
+msgid "Scroll"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:123 th-lib/th-elementor/Th-Search.php:262
+msgid "Search button"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:33
+msgid "Search Footer"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:38
+msgid "Search form"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:33
+msgid "Search Header"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:188
+msgid "Search in"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:33
+msgid "Search Mega Page"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:33
+msgid "Search Portfolio"
+msgstr ""
+
+#: th-templates/top-filter.php:8
+msgid "Search Result"
+msgstr ""
+
+#: th-lib/function.php:877
+msgid "Search Results for: "
+msgstr ""
+
+#: searchform.php:2
+msgid "Search.."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:342
+msgid "Second text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:340
+#: th-lib/th-elementor/Th-LogoText.php:380
+msgid "Secondary Color"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:60
+msgid "Select all"
+msgstr ""
+
+#: th-lib/class/icon.php:31 th-lib/class/icon.php:32
+msgid "Select Icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:118
+msgid "Select menu"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:61
+msgid "Select none"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Variable.php:49
+msgid "Select terms"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:261
+msgid "Selects sidebar"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:545
+msgid ""
+"Set sidebar position for your archives page(category/tag/author page...). "
+"Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:251
+msgid "Set sidebar position for your blog page. Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:521
+msgid "Set sidebar position for your default page. Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:415
+msgid ""
+"Set sidebar position for your post detail page. Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:569
+msgid "Set sidebar position for your search page. Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:690
+msgid ""
+"Set sidebar position for your WooCommerce page(Shop, Checkout, Cart, My "
+"Account, Product category/tag/taxonomy page...). Left, Right, or No sidebar."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:462
+msgid "Set trending for current product."
+msgstr ""
+
+#: th-lib/class/importer.php:253
+msgid "Setting reading options..."
+msgstr ""
+
+#: th-lib/class/importer.php:291
+msgid "Setting WooCommerce options..."
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:286
+msgid "Shape"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:677 th-lib/th-elementor/Th-Shop.php:38
+msgid "Shop"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:764
+msgid "Shop ajax"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:754
+msgid "Shop pagination"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:408
+#: th-lib/th-elementor/Th-Instagram.php:420
+#: th-lib/th-elementor/Th-MiniCart.php:268 th-lib/th-elementor/Th-Posts.php:729
+#: th-lib/th-elementor/Th-Posts.php:741 th-lib/th-elementor/Th-Products.php:646
+#: th-lib/th-elementor/Th-Products.php:658
+#: th-lib/th-elementor/Th-Search.php:203 th-lib/th-elementor/Th-Shop.php:646
+#: th-lib/th-elementor/Th-Shop.php:658 th-lib/th-elementor/Th-Slider.php:229
+#: th-lib/th-elementor/Th-Slider.php:241
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:213
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:225
+msgid "Show"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:459
+msgid "Show author box"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:75
+msgid "Show BreadCrumb"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:884
+msgid "Show button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1559
+#: th-lib/th-elementor/Th-Products.php:1499
+#: th-lib/th-elementor/Th-Products.php:1787
+msgid "Show by IDs"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:267
+msgid "Show canvas"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:201
+msgid "Show choose category"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:282
+msgid "Show day"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1008
+msgid "Show Excerpt"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1022
+msgid "Show latest products"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:452
+msgid "Show meta data"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:466
+msgid "Show navigation post"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:301 th-lib/controler/Redux-Config.php:779
+msgid "Show number filter"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:111
+msgid "Show Preload"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:266
+msgid "Show price"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:474
+msgid "Show related post"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1034
+msgid "Show related products"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:150
+msgid "Show scroll top button"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:291
+msgid "Show Share Box"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1041
+msgid "Show Single Number"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1050
+msgid "Show Single Size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:294
+msgid "Show text"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:438
+msgid "Show thumbnail/media"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:284
+#: th-lib/controler/Redux-Config.php:294
+msgid "Show title"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:164
+msgid "Show tool panel"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:329 th-lib/controler/Redux-Config.php:802
+msgid "Show type filter"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1028
+msgid "Show upsell products"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:157
+msgid "Show wishlist notification"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:388
+msgid "Show with roles"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:453
+msgid ""
+"Show/hide meta data(author, date, comments, categories, tags) on post detail."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:780
+msgid "Show/hide number filter on shop page."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:287
+msgid "Show/hide title of page."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:803
+msgid "Show/hide type filter(list/grid) on shop page."
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:190
+msgid "Side"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:250
+msgid "Sidebar Blog"
+msgstr ""
+
+#: th-lib/controler/Base-Control.php:284
+msgid "SideBar created by add sidebar in theme options."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:520
+msgid "Sidebar Page"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:237
+msgid "Sidebar position "
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:544
+msgid "Sidebar Position on Page Archives:"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:568
+msgid "Sidebar Position on search page:"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:689
+msgid "Sidebar Position WooCommerce page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:962
+msgid "Sidebar Position WooCommerce Single"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:262
+msgid "Sidebar select display in blog"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:532
+msgid "Sidebar select display in page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:556 th-lib/controler/Redux-Config.php:579
+msgid "Sidebar select display in page Archives"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:426
+msgid "Sidebar select display in single post"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:701
+msgid "Sidebar select WooCommerce page"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:974
+msgid "Sidebar select WooCommerce Single"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:414
+msgid "Sidebar Single Post"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1062
+msgid "Single item style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1362 th-lib/th-elementor/Th-LogoText.php:409
+#: th-lib/th-elementor/Th-Menu.php:888
+msgid "Size"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:907
+msgid "Size height"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:504
+#: th-lib/th-elementor/Th-Box-Info.php:283
+#: th-lib/th-elementor/Th-Button.php:247 th-lib/th-elementor/Th-Icon.php:153
+#: th-lib/th-elementor/Th-Instagram.php:534
+#: th-lib/th-elementor/Th-Instagram.php:1002
+#: th-lib/th-elementor/Th-Mailchimp.php:250
+#: th-lib/th-elementor/Th-MiniCart.php:374 th-lib/th-elementor/Th-Posts.php:159
+#: th-lib/th-elementor/Th-Posts.php:1106
+#: th-lib/th-elementor/Th-Products.php:143
+#: th-lib/th-elementor/Th-Products.php:1050
+#: th-lib/th-elementor/Th-Products.php:2161
+#: th-lib/th-elementor/Th-Search.php:314 th-lib/th-elementor/Th-Search.php:767
+#: th-lib/th-elementor/Th-Shop.php:143 th-lib/th-elementor/Th-Shop.php:1016
+#: th-lib/th-elementor/Th-Slider.php:981
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:827
+msgid "Size icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:616
+msgid "Size number"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:112
+#: th-lib/th-elementor/Th-Instagram.php:283
+#: th-lib/th-elementor/Th-Posts.php:628 th-lib/th-elementor/Th-Posts.php:1375
+#: th-lib/th-elementor/Th-Products.php:545
+#: th-lib/th-elementor/Th-Products.php:1304 th-lib/th-elementor/Th-Shop.php:545
+#: th-lib/th-elementor/Th-Slider.php:38 th-lib/th-elementor/Th-Slider.php:107
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:91
+msgid "Slider"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1843
+#: th-lib/th-elementor/Th-Products.php:1885
+#: th-lib/th-elementor/Th-Slider.php:1666
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1226
+msgid "Slider box"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:800
+#: th-lib/th-elementor/Th-Posts.php:881 th-lib/th-elementor/Th-Products.php:813
+#: th-lib/th-elementor/Th-Shop.php:813 th-lib/th-elementor/Th-Slider.php:746
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:592
+msgid "Slider Navigation"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:1035
+#: th-lib/th-elementor/Th-Posts.php:1139
+#: th-lib/th-elementor/Th-Products.php:1083
+#: th-lib/th-elementor/Th-Shop.php:1049 th-lib/th-elementor/Th-Slider.php:1014
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:860
+msgid "Slider Pagination"
+msgstr ""
+
+#: th-lib/config.php:68
+msgid "Slider Revolution"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:196
+msgid "Small"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:346
+msgid "Small Caps"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1351
+msgid "Social"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:737
+msgid "Socials"
+msgstr ""
+
+#: th-lib/class/require-plugin.php:44
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: th-templates/posts/content-search-none.php:2
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: th-lib/class/require-plugin.php:50
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:47
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:52
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/controler/Woocommerce-Control.php:773
+msgid "Sort by average rating"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:774
+msgid "Sort by newness"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:772
+msgid "Sort by popularity"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:776
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: th-lib/controler/Woocommerce-Control.php:775
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:735
+#: th-lib/th-elementor/Th-Banner-Info.php:401
+#: th-lib/th-elementor/Th-Box-Info.php:312 th-lib/th-elementor/Th-Icon.php:182
+#: th-lib/th-elementor/Th-Icon.php:1198 th-lib/th-elementor/Th-Icon.php:1227
+#: th-lib/th-elementor/Th-Icon.php:1256
+#: th-lib/th-elementor/Th-Instagram.php:635
+#: th-lib/th-elementor/Th-Instagram.php:1014
+#: th-lib/th-elementor/Th-Instagram.php:1210
+#: th-lib/th-elementor/Th-Popup.php:158 th-lib/th-elementor/Th-Posts.php:188
+#: th-lib/th-elementor/Th-Posts.php:1118 th-lib/th-elementor/Th-Posts.php:1315
+#: th-lib/th-elementor/Th-Posts.php:1922
+#: th-lib/th-elementor/Th-Products.php:172
+#: th-lib/th-elementor/Th-Products.php:1062
+#: th-lib/th-elementor/Th-Products.php:1259
+#: th-lib/th-elementor/Th-Products.php:1952
+#: th-lib/th-elementor/Th-Products.php:2049
+#: th-lib/th-elementor/Th-Products.php:2173
+#: th-lib/th-elementor/Th-Products.php:2510 th-lib/th-elementor/Th-Shop.php:172
+#: th-lib/th-elementor/Th-Shop.php:1028 th-lib/th-elementor/Th-Shop.php:1225
+#: th-lib/th-elementor/Th-Shop.php:1813 th-lib/th-elementor/Th-Shop.php:1910
+#: th-lib/th-elementor/Th-Slider.php:521 th-lib/th-elementor/Th-Slider.php:592
+#: th-lib/th-elementor/Th-Slider.php:993 th-lib/th-elementor/Th-Slider.php:1204
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:505
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:839
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1050
+msgid "Space"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:254
+#: th-lib/th-elementor/Th-Posts.php:2015
+#: th-lib/th-elementor/Th-Time-Countdown.php:617
+msgid "Space bottom"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1997
+msgid "Space icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1949
+msgid "Space meta item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:925
+msgid "Space text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:309
+#: th-lib/th-elementor/Th-Posts.php:654 th-lib/th-elementor/Th-Products.php:571
+#: th-lib/th-elementor/Th-Shop.php:571 th-lib/th-elementor/Th-Slider.php:130
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:114
+msgid "Space(px)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:554
+msgid "Spacing"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:289
+msgid "Spacing (a)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:301
+msgid "Spacing (li)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:244
+msgid "Span"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:659
+msgid "span"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:90
+msgid "Special Featured Image"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:334
+#: th-lib/th-elementor/Th-Posts.php:679 th-lib/th-elementor/Th-Products.php:596
+#: th-lib/th-elementor/Th-Shop.php:596 th-lib/th-elementor/Th-Slider.php:155
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:139
+msgid "Speed(ms)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:290
+msgid "Square"
+msgstr ""
+
+#: th-lib/th-elementor/Th-LogoText.php:275
+msgid "Stacked"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:745 th-lib/th-elementor/Th-Posts.php:1729
+#: th-lib/th-elementor/Th-Products.php:1591
+#: th-lib/th-elementor/Th-Shop.php:1533 th-lib/th-elementor/Th-Shop.php:1599
+msgid "Status"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:245
+msgid "Strong"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:240
+#: th-lib/th-elementor/Th-Account.php:248
+#: th-lib/th-elementor/Th-Banner-Info.php:129
+#: th-lib/th-elementor/Th-Banner-Info.php:340
+#: th-lib/th-elementor/Th-Box-Info.php:496
+#: th-lib/th-elementor/Th-Box-Info.php:503
+#: th-lib/th-elementor/Th-Box-Info.php:896
+#: th-lib/th-elementor/Th-Breadcrumb.php:107
+#: th-lib/th-elementor/Th-Breadcrumb.php:152
+#: th-lib/th-elementor/Th-Button.php:107 th-lib/th-elementor/Th-Icon.php:592
+#: th-lib/th-elementor/Th-Icon.php:757 th-lib/th-elementor/Th-Instagram.php:99
+#: th-lib/th-elementor/Th-Instagram.php:107
+#: th-lib/th-elementor/Th-Mailchimp.php:100
+#: th-lib/th-elementor/Th-Mailchimp.php:108
+#: th-lib/th-elementor/Th-MiniCart.php:165
+#: th-lib/th-elementor/Th-MiniCart.php:173 th-lib/th-elementor/Th-Popup.php:277
+#: th-lib/th-elementor/Th-Price-Table.php:114
+#: th-lib/th-elementor/Th-Price-Table.php:122
+#: th-lib/th-elementor/Th-Products.php:1603
+#: th-lib/th-elementor/Th-Search.php:100 th-lib/th-elementor/Th-Search.php:108
+#: th-lib/th-elementor/Th-Shop.php:1611 th-lib/th-elementor/Th-Slider.php:754
+#: th-lib/th-elementor/Th-Slider.php:1025
+#: th-lib/th-elementor/Th-Slider.php:1242
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:600
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:871
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1088
+#: th-lib/th-elementor/Th-Time-Countdown.php:245
+msgid "Style"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:406
+#: th-lib/controler/Redux-Config.php:128 th-lib/controler/Redux-Config.php:954
+#: th-lib/th-elementor/Th-Products.php:1607
+#: th-lib/th-elementor/Th-Shop.php:1615
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1092
+#: th-lib/th-elementor/Th-Time-Countdown.php:249
+msgid "Style 1"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:97 th-lib/th-elementor/Th-Posts.php:1405
+#: th-lib/th-elementor/Th-Posts.php:1656
+#: th-lib/th-elementor/Th-Products.php:1316
+#: th-lib/th-elementor/Th-Shop.php:1454 th-lib/th-elementor/Th-Shop.php:1514
+msgid "Style 1 - default"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:407
+#: th-lib/controler/Redux-Config.php:129 th-lib/controler/Redux-Config.php:891
+#: th-lib/controler/Redux-Config.php:901 th-lib/controler/Redux-Config.php:955
+#: th-lib/th-elementor/Th-Banner-Info.php:142
+#: th-lib/th-elementor/Th-Banner-Info.php:345
+#: th-lib/th-elementor/Th-Box-Info.php:901
+#: th-lib/th-elementor/Th-Breadcrumb.php:111
+#: th-lib/th-elementor/Th-Posts.php:98 th-lib/th-elementor/Th-Posts.php:1406
+#: th-lib/th-elementor/Th-Posts.php:1657
+#: th-lib/th-elementor/Th-Products.php:1317
+#: th-lib/th-elementor/Th-Products.php:1608
+#: th-lib/th-elementor/Th-Shop.php:1455 th-lib/th-elementor/Th-Shop.php:1515
+#: th-lib/th-elementor/Th-Shop.php:1616 th-lib/th-elementor/Th-Slider.php:759
+#: th-lib/th-elementor/Th-Slider.php:1030
+#: th-lib/th-elementor/Th-Slider.php:1404
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:605
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:876
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1093
+#: th-lib/th-elementor/Th-Time-Countdown.php:250
+msgid "Style 2"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:130
+#: th-lib/th-elementor/Th-Banner-Info.php:346
+#: th-lib/th-elementor/Th-Posts.php:1658
+#: th-lib/th-elementor/Th-Products.php:1318
+#: th-lib/th-elementor/Th-Products.php:1609
+#: th-lib/th-elementor/Th-Shop.php:1456 th-lib/th-elementor/Th-Shop.php:1617
+#: th-lib/th-elementor/Th-Slider.php:760 th-lib/th-elementor/Th-Slider.php:1031
+#: th-lib/th-elementor/Th-Slider.php:1405
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:606
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:877
+#: th-lib/th-elementor/Th-Time-Countdown.php:251
+msgid "Style 3"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:131
+#: th-lib/th-elementor/Th-Banner-Info.php:347
+#: th-lib/th-elementor/Th-Posts.php:1659
+#: th-lib/th-elementor/Th-Products.php:1319
+#: th-lib/th-elementor/Th-Shop.php:1457 th-lib/th-elementor/Th-Slider.php:1032
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:878
+msgid "Style 4"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:132 th-lib/th-elementor/Th-Posts.php:1660
+#: th-lib/th-elementor/Th-Products.php:1320
+#: th-lib/th-elementor/Th-Shop.php:1458
+msgid "Style 5"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:133
+#: th-lib/th-elementor/Th-Products.php:1321
+#: th-lib/th-elementor/Th-Shop.php:1459
+msgid "Style 6"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:134
+msgid "Style 7"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1322
+msgid "Style 7 (table)"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:795
+msgid "Style icon"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:863
+msgid "Style image"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:617
+#: th-lib/th-elementor/Th-Slider.php:1430
+#: th-lib/th-elementor/Th-Slider.php:1751
+msgid "Style Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:762
+msgid "Style1"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:335
+msgid "sub item"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:673
+msgid "Sub Menu Items Border"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:500
+msgid "Submenu Indicator"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:492
+msgid "Submenu item style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Menu.php:729
+msgid "Submenu panel style"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1681
+#: th-lib/th-elementor/Th-Products.php:2083
+msgid "Tab"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:422
+#: th-lib/controler/Redux-Config.php:1002
+msgid "Tab style 2"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1695
+msgid "Tab Title"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:234
+msgid "Tag wrap text"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:44
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/th-elementor/Th-Posts.php:1467
+msgid "Tags"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:38
+msgid "Testimonial Slider"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:364
+#: th-lib/th-elementor/Th-Banner-Info.php:208
+#: th-lib/th-elementor/Th-Icon.php:102 th-lib/th-elementor/Th-MiniCart.php:220
+#: th-lib/th-elementor/Th-Posts.php:108
+#: th-lib/th-elementor/Th-Price-Table.php:172
+#: th-lib/th-elementor/Th-Products.php:92 th-lib/th-elementor/Th-Shop.php:92
+#: th-lib/th-elementor/Th-Time-Countdown.php:638
+msgid "Text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Button.php:134
+msgid "Text button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Breadcrumb.php:160
+#: th-lib/th-elementor/Th-LogoText.php:203
+#: th-lib/th-elementor/Th-Mailchimp.php:289
+#: th-lib/th-elementor/Th-Mailchimp.php:338
+#: th-lib/th-elementor/Th-MiniCart.php:914
+msgid "Text Color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Breadcrumb.php:175
+msgid "Text Color hover"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:417
+msgid "Text Decoration"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:209
+#: th-lib/th-elementor/Th-Instagram.php:244
+msgid "Text hover"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:609
+msgid "Text Info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:199
+msgid "Text info"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:325
+#: th-lib/th-elementor/Th-Mailchimp.php:182
+#: th-lib/th-elementor/Th-Search.php:152
+msgid "Text position"
+msgstr ""
+
+#: th-lib/controler/Customize-Control.php:437
+msgid "Text Transform"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:418
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:200
+msgid ""
+"The email could not be sent.\n"
+"Possible reason: your host may have disabled the mail function."
+msgstr ""
+
+#: th-lib/class/require-plugin.php:51
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:49
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:48
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:44
+msgid ""
+"The link you followed is either outdated, inaccurate or the server has been "
+"instructed not to let you have it."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:153
+msgid "The password is not correct."
+msgstr ""
+
+#. Description of the theme
+msgid "The responsive WordPress theme"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:151
+msgid "The user name or email address is not correct."
+msgstr ""
+
+#: th-lib/controler/Option-Control.php:72
+msgid "Theme Option"
+msgstr ""
+
+#: th-lib/class/importer.php:70
+msgid "Theme option contain NULL content. Stop working!"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:1132
+#: th-lib/controler/Redux-Config.php:1133
+msgid "Theme Options"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:151
+msgid "This allow you to show or hide scroll top button"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:165
+msgid "This allow you to show or hide tool panel."
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:158
+msgid ""
+"This allow you to show or hide wishlist notification when add to wishlist."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:652
+msgid "This is the heading"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: th-lib/class/require-plugin.php:46
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/class/require-plugin.php:45
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: th-lib/controler/Elementor-Control.php:75
+msgid "ThTheme"
+msgstr ""
+
+#: th-lib/class/icons.php:13
+msgid "ThTheme - Icons"
+msgstr ""
+
+#. Author of the theme
+msgid "Ththeme WordPress team"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1414 th-lib/th-elementor/Th-Posts.php:1827
+#: th-lib/th-elementor/Th-Products.php:1342
+#: th-lib/th-elementor/Th-Products.php:1860
+#: th-lib/th-elementor/Th-Shop.php:1278 th-lib/th-elementor/Th-Shop.php:1729
+msgid "Thumbnail"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:772
+msgid "Thumbnail animation"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:92
+msgid "Thumbnail default animation"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1668
+msgid "Thumbnail Width"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Time-Countdown.php:38
+msgid "Time Countdown"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:104
+#: th-lib/controler/Redux-Config.php:314 th-lib/controler/Redux-Config.php:596
+#: th-lib/th-elementor/Th-Box-Info.php:524
+#: th-lib/th-elementor/Th-Box-Info.php:568
+#: th-lib/th-elementor/Th-Box-Info.php:570
+#: th-lib/th-elementor/Th-Box-Info.php:808
+#: th-lib/th-elementor/Th-Box-Info.php:1020 th-lib/th-elementor/Th-Icon.php:647
+#: th-lib/th-elementor/Th-Icon.php:785 th-lib/th-elementor/Th-Icon.php:1217
+#: th-lib/th-elementor/Th-LogoText.php:100
+#: th-lib/th-elementor/Th-LogoText.php:107
+#: th-lib/th-elementor/Th-LogoText.php:195
+#: th-lib/th-elementor/Th-MiniCart.php:288
+#: th-lib/th-elementor/Th-Posts.php:1436 th-lib/th-elementor/Th-Posts.php:1533
+#: th-lib/th-elementor/Th-Posts.php:1741 th-lib/th-elementor/Th-Posts.php:1912
+#: th-lib/th-elementor/Th-Price-Table.php:144
+#: th-lib/th-elementor/Th-Products.php:1354
+#: th-lib/th-elementor/Th-Products.php:1454
+#: th-lib/th-elementor/Th-Products.php:1693
+#: th-lib/th-elementor/Th-Products.php:1742
+#: th-lib/th-elementor/Th-Products.php:1942
+#: th-lib/th-elementor/Th-Search.php:619 th-lib/th-elementor/Th-Shop.php:1290
+#: th-lib/th-elementor/Th-Shop.php:1404 th-lib/th-elementor/Th-Shop.php:1803
+#: th-lib/th-elementor/Th-Slider.php:1695
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1264
+msgid "Title"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:389
+msgid "Title Attribute"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:629
+msgid "Title Color"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:683
+#: th-lib/th-elementor/Th-Box-Info.php:1030
+msgid "Title Space"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:737
+msgid "Title Typography"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:656
+#: th-lib/th-elementor/Th-Slider.php:1286
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1134
+msgid "Title/name"
+msgstr ""
+
+#: th-lib/widget/attribute-filter.php:277 th-lib/widget/category-filter.php:97
+msgid "Title:"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:429
+msgid "To the top"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:164
+msgid "Token"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:733
+#: th-lib/th-elementor/Th-Icon.php:719 th-lib/th-elementor/Th-Menu.php:828
+#: th-lib/th-elementor/Th-Slider.php:1546
+#: th-lib/th-elementor/Th-Slider.php:1867
+msgid "Top"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1718 th-lib/th-elementor/Th-Shop.php:1525
+msgid "Top filter"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1489
+#: th-lib/th-elementor/Th-Products.php:1777
+msgid "Top rate"
+msgstr ""
+
+#: th-lib/th-elementor/Th-MiniCart.php:133
+msgid "TOTAL"
+msgstr ""
+
+#: th-templates/share.php:8 woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:118 th-templates/woocommerce/cart/mini-cart.php:45
+msgid "Total"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1469
+msgid "Total views"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:546
+#: th-lib/th-elementor/Th-Box-Info.php:464
+#: th-lib/th-elementor/Th-Button.php:457 th-lib/th-elementor/Th-Icon.php:334
+#: th-lib/th-elementor/Th-Icon.php:1092 th-lib/th-elementor/Th-Icon.php:1324
+#: th-lib/th-elementor/Th-Icon.php:1511 th-lib/th-elementor/Th-Logo.php:303
+#: th-lib/th-elementor/Th-Posts.php:340 th-lib/th-elementor/Th-Posts.php:595
+#: th-lib/th-elementor/Th-Products.php:324
+#: th-lib/th-elementor/Th-Products.php:504
+#: th-lib/th-elementor/Th-Products.php:2393 th-lib/th-elementor/Th-Shop.php:324
+#: th-lib/th-elementor/Th-Shop.php:504 th-lib/th-elementor/Th-Slider.php:361
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:345
+msgid "Transition Duration"
+msgstr ""
+
+#: th-lib/function.php:551 th-lib/th-elementor/Th-Products.php:531
+#: th-lib/th-elementor/Th-Shop.php:531
+msgid "Translate"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Products.php:1485
+#: th-lib/th-elementor/Th-Products.php:1773
+msgid "Trending"
+msgstr ""
+
+#: th-templates/share.php:38
+msgid "Tumblr"
+msgstr ""
+
+#: th-templates/share.php:18
+msgid "Twitter"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Posts.php:1756 th-lib/th-elementor/Th-Shop.php:1545
+msgid "Type"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Slider.php:1349
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:1158
+msgid "Type your content here"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:144
+#: th-lib/th-elementor/Th-Search.php:182
+msgid "Type your placeholder here"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:318
+#: th-lib/th-elementor/Th-Mailchimp.php:175
+#: th-lib/th-elementor/Th-Search.php:145
+msgid "Type your text to add search button"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Search.php:622
+msgid "Type your title here"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:621 th-lib/th-elementor/Th-Menu.php:280
+#: th-lib/th-elementor/Th-Menu.php:545 th-lib/th-elementor/Th-MiniCart.php:718
+msgid "Typography"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:536
+#: th-lib/th-elementor/Th-Account.php:606
+#: th-lib/th-elementor/Th-Mailchimp.php:301
+#: th-lib/th-elementor/Th-Mailchimp.php:350
+#: th-lib/th-elementor/Th-MiniCart.php:406
+#: th-lib/th-elementor/Th-MiniCart.php:476
+#: th-lib/th-elementor/Th-Search.php:354 th-lib/th-elementor/Th-Search.php:392
+msgid "Typography button text"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:547
+msgid "Typography text hover"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:425
+msgid "Up one"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:137 th-lib/controler/Woocommerce-Variable.php:119
+msgid "Upload"
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:187
+#: th-lib/controler/Portfolio-Control.php:91
+msgid "Upload Image"
+msgstr ""
+
+#: th-lib/class/mega-menu.php:376 th-lib/th-elementor/Th-Box-Info.php:937
+#: th-lib/th-elementor/Th-Icon.php:678
+msgid "URL"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Instagram.php:151
+msgid "User name"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:159
+#: th-lib/th-elementor/Th-Instagram.php:134
+msgid "Username"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:112
+#: th-lib/th-elementor/Th-Account.php:205
+msgid "Username or Email Address"
+msgstr ""
+
+#: th-lib/controler/Option-Control.php:105
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Banner-Info.php:729
+#: th-lib/th-elementor/Th-Slider.php:1542
+#: th-lib/th-elementor/Th-Slider.php:1863
+msgid "Vertical Info"
+msgstr ""
+
+#: th-lib/function.php:444 th-lib/th-elementor/Th-LogoText.php:271
+msgid "View"
+msgstr ""
+
+#: th-lib/controler/Footer-Control.php:31
+msgid "View Footer"
+msgstr ""
+
+#: th-lib/controler/Header-Control.php:31
+msgid "View Header"
+msgstr ""
+
+#: th-lib/controler/MegaItem-Control.php:31
+msgid "View Mega Page"
+msgstr ""
+
+#: th-templates/wishlist-notification.php:12
+msgid "View page"
+msgstr ""
+
+#: th-lib/controler/Portfolio-Control.php:31
+msgid "View Portfolio"
+msgstr ""
+
+#: th-lib/function.php:443
+msgid "Views"
+msgstr ""
+
+#: th-templates/wishlist-notification.php:9
+msgid "was added to wishlist"
+msgstr ""
+
+#: comments.php:109
+msgid "Web Site"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:150
+msgid "Welcome! Register for an account"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:640
+msgid "Widget"
+msgstr ""
+
+#: th-lib/class/importer.php:96
+msgid "Widget option contain NULL content. Stop working!"
+msgstr ""
+
+#: th-lib/config.php:27
+msgid "Widgets in this area will be shown on all blog page."
+msgstr ""
+
+#: th-lib/config.php:38
+msgid "Widgets in this area will be shown on all woocommerce page."
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:464
+#: th-lib/th-elementor/Th-Account.php:702
+#: th-lib/th-elementor/Th-Banner-Info.php:629
+#: th-lib/th-elementor/Th-Box-Info.php:968 th-lib/th-elementor/Th-Icon.php:951
+#: th-lib/th-elementor/Th-Icon.php:1149
+#: th-lib/th-elementor/Th-Instagram.php:456
+#: th-lib/th-elementor/Th-Instagram.php:811
+#: th-lib/th-elementor/Th-Instagram.php:1046
+#: th-lib/th-elementor/Th-Logo.php:165 th-lib/th-elementor/Th-Mailchimp.php:209
+#: th-lib/th-elementor/Th-Mailchimp.php:435
+#: th-lib/th-elementor/Th-Mailchimp.php:574 th-lib/th-elementor/Th-Menu.php:246
+#: th-lib/th-elementor/Th-Menu.php:869 th-lib/th-elementor/Th-Menu.php:1083
+#: th-lib/th-elementor/Th-Menu.php:1233 th-lib/th-elementor/Th-MiniCart.php:308
+#: th-lib/th-elementor/Th-MiniCart.php:572 th-lib/th-elementor/Th-Popup.php:323
+#: th-lib/th-elementor/Th-Posts.php:893 th-lib/th-elementor/Th-Posts.php:1151
+#: th-lib/th-elementor/Th-Posts.php:1798
+#: th-lib/th-elementor/Th-Price-Table.php:226
+#: th-lib/th-elementor/Th-Products.php:837
+#: th-lib/th-elementor/Th-Products.php:1095
+#: th-lib/th-elementor/Th-Products.php:1831
+#: th-lib/th-elementor/Th-Search.php:270 th-lib/th-elementor/Th-Search.php:480
+#: th-lib/th-elementor/Th-Search.php:640 th-lib/th-elementor/Th-Search.php:727
+#: th-lib/th-elementor/Th-Shop.php:825 th-lib/th-elementor/Th-Shop.php:1061
+#: th-lib/th-elementor/Th-Shop.php:1700 th-lib/th-elementor/Th-Slider.php:768
+#: th-lib/th-elementor/Th-Slider.php:1040
+#: th-lib/th-elementor/Th-Slider.php:1442
+#: th-lib/th-elementor/Th-Slider.php:1763
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:614
+#: th-lib/th-elementor/Th-Testimonial-Slider.php:886
+#: th-lib/th-elementor/Th-Time-Countdown.php:364
+#: th-lib/th-elementor/Th-Time-Countdown.php:517
+msgid "Width"
+msgstr ""
+
+#: th-lib/function.php:816
+#: th-templates/woocommerce/loop/grid/grid-style6.php:19
+msgid "Wishlist"
+msgstr ""
+
+#: th-lib/config.php:84
+msgid "WooCommerce"
+msgstr ""
+
+#: th-lib/config.php:36
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Box-Info.php:960
+msgid "Wrap Box"
+msgstr ""
+
+#: th-lib/widget/group-begin.php:61
+msgid "Wrap class:"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:410
+#: th-lib/th-elementor/Th-MiniCart.php:745
+msgid "Wrap Left"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1553
+msgid "Wrap Margin"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Icon.php:1540
+msgid "Wrap Padding"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Account.php:432
+#: th-lib/th-elementor/Th-MiniCart.php:770
+msgid "Wrap Right"
+msgstr ""
+
+#: th-lib/config.php:99
+msgid "Yith WooCommerce Compare"
+msgstr ""
+
+#: th-lib/config.php:104
+msgid "Yith WooCommerce Wishlist"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:216
+msgid "You can custom width of container on your site. Default is 1200px."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:363
+msgid "You can custom width of page container. Default is 1200px."
+msgstr ""
+
+#: th-lib/controler/Metabox-Control.php:308
+msgid "You can show/hide share box independent on this page. "
+msgstr ""
+
+#: th-lib/class/importer.php:25
+msgid "You do not have permission to do this"
+msgstr ""
+
+#: th-templates/woocommerce/single-product/upsell.php:8
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: th-templates/woocommerce/cart/cross-sells.php:16
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: th-templates/posts/single-content/related.php:9
+msgid "You might also like"
+msgstr ""
+
+#: comments.php:116
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:114
+msgid "Your comment*"
+msgstr ""
+
+#: th-lib/th-elementor/Th-Mailchimp.php:143
+msgid "Your email address"
+msgstr ""
+
+#: th-lib/function.php:943
+msgid "Your email has been exist."
+msgstr ""
+
+#: th-lib/function.php:939
+msgid "Your username has been exist."
+msgstr ""
+
+#: th-lib/function.php:929
+msgid "Your username or email has been exist. Please check again. "
+msgstr ""
+
+#: th-lib/function.php:548 th-lib/function.php:560
+#: th-lib/th-elementor/Th-Banner-Info.php:106
+#: th-lib/th-elementor/Th-Icon.php:1114 th-lib/th-elementor/Th-Products.php:528
+#: th-lib/th-elementor/Th-Shop.php:528
+msgid "Zoom"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:989
+msgid "Zoom 1"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:990
+msgid "Zoom 2"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:991
+msgid "Zoom 3"
+msgstr ""
+
+#: th-lib/controler/Redux-Config.php:992
+msgid "Zoom 4"
+msgstr ""
+
+#: th-lib/function.php:562 th-lib/th-elementor/Th-Banner-Info.php:108
+#: th-lib/th-elementor/Th-Icon.php:1116
+msgid "Zoom Fade out-in"
+msgstr ""
+
+#: th-lib/function.php:568 th-lib/th-elementor/Th-Banner-Info.php:114
+#: th-lib/th-elementor/Th-Icon.php:1122
+msgid "Zoom image line"
+msgstr ""
+
+#: th-lib/function.php:550 th-lib/th-elementor/Th-Products.php:530
+#: th-lib/th-elementor/Th-Shop.php:530
+msgid "Zoom Out"
+msgstr ""
+
+#: th-lib/function.php:564 th-lib/th-elementor/Th-Banner-Info.php:110
+#: th-lib/th-elementor/Th-Icon.php:1118
+msgid "Zoom rotate"
+msgstr ""
+
+#: th-lib/function.php:565 th-lib/th-elementor/Th-Banner-Info.php:111
+#: th-lib/th-elementor/Th-Icon.php:1119
+msgid "Zoom rotate Fade out-in"
+msgstr ""

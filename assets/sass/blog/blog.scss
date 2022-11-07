@@ -1,0 +1,118 @@
+.blog-grid-view {
+    .post-thumb{
+        position: relative;
+        .meta-item{
+            position: absolute;
+            padding: 10px 15px;
+            background: #000;
+            color:#fff;
+            bottom: 30px;
+            left: 30px;
+            i{
+                display: none;
+            }
+        }
+    }
+}
+.post-nav-prev-wrap,.post-nav-next-wrap{
+    max-height: 140px;
+    height:140px;
+    background: #cecece;
+    overflow: hidden;
+    position: relative;
+    a{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    img{
+        height: 140px;
+        object-fit: cover;
+        max-width: 100%;
+        width: 100%;
+        display: none;
+    }
+}
+.post-nav-prev-wrap{
+    h3{
+        position: absolute;
+        top: 31%;
+        left: 7%;
+        color: #fff;
+    }
+    a{
+        i{
+            position: absolute;
+            top: 31%;
+            right: 4%;
+            font-size: 58px;
+            color: #fff;
+            font-weight: 700;
+        }
+        
+        span{
+            text-align:left;
+            position: absolute;
+            top: 50%;
+            left: 7%;
+            color: #fff;
+        }
+        &::before{
+            display: none;
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 100%;
+            background: #000;
+            opacity: 0.5;
+            top:0;
+            right: 0;
+        }
+        &:hover{
+            &::before,img{
+                display: block;
+            }
+        }
+    }
+}
+.post-nav-next-wrap{
+    h3{
+        position: absolute;
+        top: 31%;
+        right: 7%;
+        color: #fff;
+    }
+    a{
+        i{
+            position: absolute;
+            top: 31%;
+            left: 4%;
+            font-size: 58px;
+            color: #fff;
+            font-weight: 700;
+        }
+        span{
+            text-align: right;
+            position: absolute;
+            top: 50%;
+            left: 8%;
+            color: #fff;
+        }
+        &::before{
+            display: none;
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 100%;
+            background: #000;
+            opacity: 0.5;
+            top:0;
+            left: 0;
+        }
+        &:hover{
+            &::before,img{
+                display: block;
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+.search-icon-popup{
+    position: relative;
+    cursor: pointer;
+	transition: all 0.3s ease-out 0s;
+    -webkit-transition: all 0.3s ease-out 0s;
+    width: 80px;
+    height: 80px;
+    &::before{
+        position: absolute;
+        content: "";
+        background-image: url(assets/image/Shape.png);
+        top: 0;
+        right: 0;
+        background-size: auto;
+        width: 100%;
+        background-repeat: no-repeat;
+        height: 100%;
+        z-index: 1;
+    }
+    i {
+        color: #fff;
+        z-index: 999;
+        right: 45px;
+        top: 11px;
+        position: absolute;
+        transition: all .3s ease-out 0s;
+        -webkit-transition: all .3s ease-out 0s;
+    }
+    &:hover i{
+        color: rgb(255, 0, 0);
+    }
+}

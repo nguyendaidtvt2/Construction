@@ -1,0 +1,11 @@
+.idea/
+assets/sass/_thim_customize.scss
+.project
+.settings/org.eclipse.php.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+prepros.config
+node_modules/
+style.css.map
+package.json
+package-lock.json
+gulpfile.js
